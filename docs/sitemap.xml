@@ -2,22 +2,22 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <sitemap>
-        <loc>https://alban-lautie.github.io/post-sitemap.xml</loc>
+        <loc>https://alban-lautie.github.io/rc-blog/post-sitemap.xml</loc>
         <lastmod>2017-04-11T12:04:58.000Z</lastmod>
     </sitemap>
 
     <sitemap>
-        <loc>https://alban-lautie.github.io/page-sitemap.xml</loc>
+        <loc>https://alban-lautie.github.io/rc-blog/page-sitemap.xml</loc>
         <lastmod>2017-01-23T13:12:19.000Z</lastmod>
     </sitemap>
 
     <sitemap>
-        <loc>https://alban-lautie.github.io/category-sitemap.xml</loc>
+        <loc>https://alban-lautie.github.io/rc-blog/category-sitemap.xml</loc>
         <lastmod>2017-02-23T18:58:14.000Z</lastmod>
     </sitemap>
 
     <sitemap>
-        <loc>https://alban-lautie.github.io/tag-sitemap.xml</loc>
+        <loc>https://alban-lautie.github.io/rc-blog/tag-sitemap.xml</loc>
         <lastmod>2017-02-23T18:58:14.000Z</lastmod>
     </sitemap>
 

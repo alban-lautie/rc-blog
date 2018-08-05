@@ -3,11 +3,11 @@
   <title>Modélisme (Informations / Tests / Tutoriels) | RC-blog</title>
   
   
-  <link href="/rc-blog/atom.xml" rel="self"/>
+  <link href="/atom.xml" rel="self"/>
   
-  <link href="https://alban-lautie.github.io/"/>
+  <link href="https://alban-lautie.github.io/rc-blog/"/>
   <updated>2017-04-11T12:04:52.000Z</updated>
-  <id>https://alban-lautie.github.io/</id>
+  <id>https://alban-lautie.github.io/rc-blog/</id>
   
   <author>
     <name>Alban Lautié</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Comment changer le mode de pilotage (mode 1 ou 2) sur la taranis XD9 PLUS</title>
-    <link href="https://alban-lautie.github.io/11/04/2017/Passer-du-mode-2-au-mode-1-sur-la-taranis-XD9-PLUS/"/>
-    <id>https://alban-lautie.github.io/11/04/2017/Passer-du-mode-2-au-mode-1-sur-la-taranis-XD9-PLUS/</id>
+    <link href="https://alban-lautie.github.io/rc-blog/11/04/2017/Passer-du-mode-2-au-mode-1-sur-la-taranis-XD9-PLUS/"/>
+    <id>https://alban-lautie.github.io/rc-blog/11/04/2017/Passer-du-mode-2-au-mode-1-sur-la-taranis-XD9-PLUS/</id>
     <published>2017-04-11T16:00:00.000Z</published>
     <updated>2017-04-11T12:04:52.000Z</updated>
     
@@ -31,31 +31,31 @@
     
     </summary>
     
-      <category term="Tutoriels" scheme="https://alban-lautie.github.io/categories/Tutoriels/"/>
+      <category term="Tutoriels" scheme="https://alban-lautie.github.io/rc-blog/categories/Tutoriels/"/>
     
-      <category term="Radiocommandes" scheme="https://alban-lautie.github.io/categories/Tutoriels/Radiocommandes/"/>
+      <category term="Radiocommandes" scheme="https://alban-lautie.github.io/rc-blog/categories/Tutoriels/Radiocommandes/"/>
     
-      <category term="Avions" scheme="https://alban-lautie.github.io/categories/Tutoriels/Radiocommandes/Avions/"/>
+      <category term="Avions" scheme="https://alban-lautie.github.io/rc-blog/categories/Tutoriels/Radiocommandes/Avions/"/>
     
-      <category term="Bateaux" scheme="https://alban-lautie.github.io/categories/Tutoriels/Radiocommandes/Avions/Bateaux/"/>
+      <category term="Bateaux" scheme="https://alban-lautie.github.io/rc-blog/categories/Tutoriels/Radiocommandes/Avions/Bateaux/"/>
     
-      <category term="Hélicoptères" scheme="https://alban-lautie.github.io/categories/Tutoriels/Radiocommandes/Avions/Bateaux/Helicopteres/"/>
+      <category term="Hélicoptères" scheme="https://alban-lautie.github.io/rc-blog/categories/Tutoriels/Radiocommandes/Avions/Bateaux/Helicopteres/"/>
     
-      <category term="Drones" scheme="https://alban-lautie.github.io/categories/Tutoriels/Radiocommandes/Avions/Bateaux/Helicopteres/Drones/"/>
+      <category term="Drones" scheme="https://alban-lautie.github.io/rc-blog/categories/Tutoriels/Radiocommandes/Avions/Bateaux/Helicopteres/Drones/"/>
     
-      <category term="Voitures" scheme="https://alban-lautie.github.io/categories/Tutoriels/Radiocommandes/Avions/Bateaux/Helicopteres/Drones/Voitures/"/>
+      <category term="Voitures" scheme="https://alban-lautie.github.io/rc-blog/categories/Tutoriels/Radiocommandes/Avions/Bateaux/Helicopteres/Drones/Voitures/"/>
     
     
-      <category term="Tutos" scheme="https://alban-lautie.github.io/tags/Tutos/"/>
+      <category term="Tutos" scheme="https://alban-lautie.github.io/rc-blog/tags/Tutos/"/>
     
-      <category term="FrSky" scheme="https://alban-lautie.github.io/tags/FrSky/"/>
+      <category term="FrSky" scheme="https://alban-lautie.github.io/rc-blog/tags/FrSky/"/>
     
   </entry>
   
   <entry>
     <title>Comment lier son récepteur avec la radio (Frsky XD9 Plus)</title>
-    <link href="https://alban-lautie.github.io/07/04/2017/Comment-lier-sont-recepteur-avec-la-radio-Frsky-XD9-Plus/"/>
-    <id>https://alban-lautie.github.io/07/04/2017/Comment-lier-sont-recepteur-avec-la-radio-Frsky-XD9-Plus/</id>
+    <link href="https://alban-lautie.github.io/rc-blog/07/04/2017/Comment-lier-sont-recepteur-avec-la-radio-Frsky-XD9-Plus/"/>
+    <id>https://alban-lautie.github.io/rc-blog/07/04/2017/Comment-lier-sont-recepteur-avec-la-radio-Frsky-XD9-Plus/</id>
     <published>2017-04-07T16:00:00.000Z</published>
     <updated>2017-04-11T12:04:58.000Z</updated>
     
@@ -67,33 +67,33 @@
     
     </summary>
     
-      <category term="Informations" scheme="https://alban-lautie.github.io/categories/Informations/"/>
+      <category term="Informations" scheme="https://alban-lautie.github.io/rc-blog/categories/Informations/"/>
     
-      <category term="Tutoriels" scheme="https://alban-lautie.github.io/categories/Informations/Tutoriels/"/>
+      <category term="Tutoriels" scheme="https://alban-lautie.github.io/rc-blog/categories/Informations/Tutoriels/"/>
     
-      <category term="Avions" scheme="https://alban-lautie.github.io/categories/Informations/Tutoriels/Avions/"/>
+      <category term="Avions" scheme="https://alban-lautie.github.io/rc-blog/categories/Informations/Tutoriels/Avions/"/>
     
-      <category term="Drones" scheme="https://alban-lautie.github.io/categories/Informations/Tutoriels/Avions/Drones/"/>
+      <category term="Drones" scheme="https://alban-lautie.github.io/rc-blog/categories/Informations/Tutoriels/Avions/Drones/"/>
     
-      <category term="Voitures" scheme="https://alban-lautie.github.io/categories/Informations/Tutoriels/Avions/Drones/Voitures/"/>
+      <category term="Voitures" scheme="https://alban-lautie.github.io/rc-blog/categories/Informations/Tutoriels/Avions/Drones/Voitures/"/>
     
-      <category term="Hélicoptères" scheme="https://alban-lautie.github.io/categories/Informations/Tutoriels/Avions/Drones/Voitures/Helicopteres/"/>
+      <category term="Hélicoptères" scheme="https://alban-lautie.github.io/rc-blog/categories/Informations/Tutoriels/Avions/Drones/Voitures/Helicopteres/"/>
     
-      <category term="Bateaux" scheme="https://alban-lautie.github.io/categories/Informations/Tutoriels/Avions/Drones/Voitures/Helicopteres/Bateaux/"/>
+      <category term="Bateaux" scheme="https://alban-lautie.github.io/rc-blog/categories/Informations/Tutoriels/Avions/Drones/Voitures/Helicopteres/Bateaux/"/>
     
     
-      <category term="Frsky" scheme="https://alban-lautie.github.io/tags/Frsky/"/>
+      <category term="Frsky" scheme="https://alban-lautie.github.io/rc-blog/tags/Frsky/"/>
     
-      <category term="Tutos" scheme="https://alban-lautie.github.io/tags/Tutos/"/>
+      <category term="Tutos" scheme="https://alban-lautie.github.io/rc-blog/tags/Tutos/"/>
     
-      <category term="Bind" scheme="https://alban-lautie.github.io/tags/Bind/"/>
+      <category term="Bind" scheme="https://alban-lautie.github.io/rc-blog/tags/Bind/"/>
     
   </entry>
   
   <entry>
     <title>[Unboxing] Ma nouvelle télécommande (Frsky XD9 PLUS)</title>
-    <link href="https://alban-lautie.github.io/03/04/2017/Unboxing-Ma-nouvelle-telecommande-Frsky-XD9-PLUS/"/>
-    <id>https://alban-lautie.github.io/03/04/2017/Unboxing-Ma-nouvelle-telecommande-Frsky-XD9-PLUS/</id>
+    <link href="https://alban-lautie.github.io/rc-blog/03/04/2017/Unboxing-Ma-nouvelle-telecommande-Frsky-XD9-PLUS/"/>
+    <id>https://alban-lautie.github.io/rc-blog/03/04/2017/Unboxing-Ma-nouvelle-telecommande-Frsky-XD9-PLUS/</id>
     <published>2017-04-03T16:00:00.000Z</published>
     <updated>2017-04-07T11:59:45.000Z</updated>
     
@@ -105,19 +105,19 @@
     
     </summary>
     
-      <category term="Unboxing" scheme="https://alban-lautie.github.io/categories/Unboxing/"/>
+      <category term="Unboxing" scheme="https://alban-lautie.github.io/rc-blog/categories/Unboxing/"/>
     
-      <category term="Radiocommandes" scheme="https://alban-lautie.github.io/categories/Unboxing/Radiocommandes/"/>
+      <category term="Radiocommandes" scheme="https://alban-lautie.github.io/rc-blog/categories/Unboxing/Radiocommandes/"/>
     
     
-      <category term="Frsky" scheme="https://alban-lautie.github.io/tags/Frsky/"/>
+      <category term="Frsky" scheme="https://alban-lautie.github.io/rc-blog/tags/Frsky/"/>
     
   </entry>
   
   <entry>
     <title>Batteries : lithium vs graphène</title>
-    <link href="https://alban-lautie.github.io/31/03/2017/Batteries-lithium-vs-graphene/"/>
-    <id>https://alban-lautie.github.io/31/03/2017/Batteries-lithium-vs-graphene/</id>
+    <link href="https://alban-lautie.github.io/rc-blog/31/03/2017/Batteries-lithium-vs-graphene/"/>
+    <id>https://alban-lautie.github.io/rc-blog/31/03/2017/Batteries-lithium-vs-graphene/</id>
     <published>2017-03-31T16:00:00.000Z</published>
     <updated>2017-04-03T11:49:11.000Z</updated>
     
@@ -129,27 +129,27 @@
     
     </summary>
     
-      <category term="Informations" scheme="https://alban-lautie.github.io/categories/Informations/"/>
+      <category term="Informations" scheme="https://alban-lautie.github.io/rc-blog/categories/Informations/"/>
     
-      <category term="Avions" scheme="https://alban-lautie.github.io/categories/Informations/Avions/"/>
+      <category term="Avions" scheme="https://alban-lautie.github.io/rc-blog/categories/Informations/Avions/"/>
     
-      <category term="Hélicoptères" scheme="https://alban-lautie.github.io/categories/Informations/Avions/Helicopteres/"/>
+      <category term="Hélicoptères" scheme="https://alban-lautie.github.io/rc-blog/categories/Informations/Avions/Helicopteres/"/>
     
-      <category term="Bateaux" scheme="https://alban-lautie.github.io/categories/Informations/Avions/Helicopteres/Bateaux/"/>
+      <category term="Bateaux" scheme="https://alban-lautie.github.io/rc-blog/categories/Informations/Avions/Helicopteres/Bateaux/"/>
     
-      <category term="Voitures" scheme="https://alban-lautie.github.io/categories/Informations/Avions/Helicopteres/Bateaux/Voitures/"/>
+      <category term="Voitures" scheme="https://alban-lautie.github.io/rc-blog/categories/Informations/Avions/Helicopteres/Bateaux/Voitures/"/>
     
-      <category term="Drones" scheme="https://alban-lautie.github.io/categories/Informations/Avions/Helicopteres/Bateaux/Voitures/Drones/"/>
+      <category term="Drones" scheme="https://alban-lautie.github.io/rc-blog/categories/Informations/Avions/Helicopteres/Bateaux/Voitures/Drones/"/>
     
     
-      <category term="Batteries" scheme="https://alban-lautie.github.io/tags/Batteries/"/>
+      <category term="Batteries" scheme="https://alban-lautie.github.io/rc-blog/tags/Batteries/"/>
     
   </entry>
   
   <entry>
     <title>5 astuces pour stocker ses batteries au lithium</title>
-    <link href="https://alban-lautie.github.io/27/03/2017/5-astuces-pour-stocker-ses-batteries-au-lithium/"/>
-    <id>https://alban-lautie.github.io/27/03/2017/5-astuces-pour-stocker-ses-batteries-au-lithium/</id>
+    <link href="https://alban-lautie.github.io/rc-blog/27/03/2017/5-astuces-pour-stocker-ses-batteries-au-lithium/"/>
+    <id>https://alban-lautie.github.io/rc-blog/27/03/2017/5-astuces-pour-stocker-ses-batteries-au-lithium/</id>
     <published>2017-03-27T16:00:00.000Z</published>
     <updated>2017-03-30T21:55:26.000Z</updated>
     
@@ -161,29 +161,29 @@
     
     </summary>
     
-      <category term="Informations" scheme="https://alban-lautie.github.io/categories/Informations/"/>
+      <category term="Informations" scheme="https://alban-lautie.github.io/rc-blog/categories/Informations/"/>
     
-      <category term="Bateaux" scheme="https://alban-lautie.github.io/categories/Informations/Bateaux/"/>
+      <category term="Bateaux" scheme="https://alban-lautie.github.io/rc-blog/categories/Informations/Bateaux/"/>
     
-      <category term="Avions" scheme="https://alban-lautie.github.io/categories/Informations/Bateaux/Avions/"/>
+      <category term="Avions" scheme="https://alban-lautie.github.io/rc-blog/categories/Informations/Bateaux/Avions/"/>
     
-      <category term="Hélicoptères" scheme="https://alban-lautie.github.io/categories/Informations/Bateaux/Avions/Helicopteres/"/>
+      <category term="Hélicoptères" scheme="https://alban-lautie.github.io/rc-blog/categories/Informations/Bateaux/Avions/Helicopteres/"/>
     
-      <category term="Voitures" scheme="https://alban-lautie.github.io/categories/Informations/Bateaux/Avions/Helicopteres/Voitures/"/>
+      <category term="Voitures" scheme="https://alban-lautie.github.io/rc-blog/categories/Informations/Bateaux/Avions/Helicopteres/Voitures/"/>
     
-      <category term="Drones" scheme="https://alban-lautie.github.io/categories/Informations/Bateaux/Avions/Helicopteres/Voitures/Drones/"/>
+      <category term="Drones" scheme="https://alban-lautie.github.io/rc-blog/categories/Informations/Bateaux/Avions/Helicopteres/Voitures/Drones/"/>
     
     
-      <category term="Astuces" scheme="https://alban-lautie.github.io/tags/Astuces/"/>
+      <category term="Astuces" scheme="https://alban-lautie.github.io/rc-blog/tags/Astuces/"/>
     
-      <category term="Top" scheme="https://alban-lautie.github.io/tags/Top/"/>
+      <category term="Top" scheme="https://alban-lautie.github.io/rc-blog/tags/Top/"/>
     
   </entry>
   
   <entry>
     <title>Construction du mercury (Indoor) en dépron</title>
-    <link href="https://alban-lautie.github.io/10/03/2017/Construction-du-mercury-Indoor-en-depron/"/>
-    <id>https://alban-lautie.github.io/10/03/2017/Construction-du-mercury-Indoor-en-depron/</id>
+    <link href="https://alban-lautie.github.io/rc-blog/10/03/2017/Construction-du-mercury-Indoor-en-depron/"/>
+    <id>https://alban-lautie.github.io/rc-blog/10/03/2017/Construction-du-mercury-Indoor-en-depron/</id>
     <published>2017-03-10T17:00:00.000Z</published>
     <updated>2017-03-27T12:07:57.000Z</updated>
     
@@ -195,25 +195,25 @@
     
     </summary>
     
-      <category term="Constructions" scheme="https://alban-lautie.github.io/categories/Constructions/"/>
+      <category term="Constructions" scheme="https://alban-lautie.github.io/rc-blog/categories/Constructions/"/>
     
-      <category term="Avions" scheme="https://alban-lautie.github.io/categories/Constructions/Avions/"/>
+      <category term="Avions" scheme="https://alban-lautie.github.io/rc-blog/categories/Constructions/Avions/"/>
     
-      <category term="Indoor" scheme="https://alban-lautie.github.io/categories/Constructions/Avions/Indoor/"/>
+      <category term="Indoor" scheme="https://alban-lautie.github.io/rc-blog/categories/Constructions/Avions/Indoor/"/>
     
     
-      <category term="Aéromodélisme" scheme="https://alban-lautie.github.io/tags/Aeromodelisme/"/>
+      <category term="Aéromodélisme" scheme="https://alban-lautie.github.io/rc-blog/tags/Aeromodelisme/"/>
     
-      <category term="Indoor" scheme="https://alban-lautie.github.io/tags/Indoor/"/>
+      <category term="Indoor" scheme="https://alban-lautie.github.io/rc-blog/tags/Indoor/"/>
     
-      <category term="Dépron" scheme="https://alban-lautie.github.io/tags/Depron/"/>
+      <category term="Dépron" scheme="https://alban-lautie.github.io/rc-blog/tags/Depron/"/>
     
   </entry>
   
   <entry>
     <title>Test du cessna 182 (F949) de chez WLtoys</title>
-    <link href="https://alban-lautie.github.io/03/03/2017/Test-du-cessna-182-F949-de-chez-WLtoys/"/>
-    <id>https://alban-lautie.github.io/03/03/2017/Test-du-cessna-182-F949-de-chez-WLtoys/</id>
+    <link href="https://alban-lautie.github.io/rc-blog/03/03/2017/Test-du-cessna-182-F949-de-chez-WLtoys/"/>
+    <id>https://alban-lautie.github.io/rc-blog/03/03/2017/Test-du-cessna-182-F949-de-chez-WLtoys/</id>
     <published>2017-03-03T17:00:00.000Z</published>
     <updated>2017-03-10T18:39:06.000Z</updated>
     
@@ -225,25 +225,25 @@
     
     </summary>
     
-      <category term="Tests" scheme="https://alban-lautie.github.io/categories/Tests/"/>
+      <category term="Tests" scheme="https://alban-lautie.github.io/rc-blog/categories/Tests/"/>
     
-      <category term="Avions" scheme="https://alban-lautie.github.io/categories/Tests/Avions/"/>
+      <category term="Avions" scheme="https://alban-lautie.github.io/rc-blog/categories/Tests/Avions/"/>
     
     
-      <category term="Aéromodélisme" scheme="https://alban-lautie.github.io/tags/Aeromodelisme/"/>
+      <category term="Aéromodélisme" scheme="https://alban-lautie.github.io/rc-blog/tags/Aeromodelisme/"/>
     
-      <category term="Débutant" scheme="https://alban-lautie.github.io/tags/Debutant/"/>
+      <category term="Débutant" scheme="https://alban-lautie.github.io/rc-blog/tags/Debutant/"/>
     
-      <category term="Cessna" scheme="https://alban-lautie.github.io/tags/Cessna/"/>
+      <category term="Cessna" scheme="https://alban-lautie.github.io/rc-blog/tags/Cessna/"/>
     
-      <category term="WLtoys" scheme="https://alban-lautie.github.io/tags/WLtoys/"/>
+      <category term="WLtoys" scheme="https://alban-lautie.github.io/rc-blog/tags/WLtoys/"/>
     
   </entry>
   
   <entry>
     <title>Où voler avec mon drone ou avion</title>
-    <link href="https://alban-lautie.github.io/24/02/2017/Ou-voler-avec-mon-drone-ou-avion/"/>
-    <id>https://alban-lautie.github.io/24/02/2017/Ou-voler-avec-mon-drone-ou-avion/</id>
+    <link href="https://alban-lautie.github.io/rc-blog/24/02/2017/Ou-voler-avec-mon-drone-ou-avion/"/>
+    <id>https://alban-lautie.github.io/rc-blog/24/02/2017/Ou-voler-avec-mon-drone-ou-avion/</id>
     <published>2017-02-24T17:00:00.000Z</published>
     <updated>2017-03-04T12:25:17.000Z</updated>
     
@@ -255,23 +255,23 @@
     
     </summary>
     
-      <category term="Informations" scheme="https://alban-lautie.github.io/categories/Informations/"/>
+      <category term="Informations" scheme="https://alban-lautie.github.io/rc-blog/categories/Informations/"/>
     
-      <category term="Avions" scheme="https://alban-lautie.github.io/categories/Informations/Avions/"/>
+      <category term="Avions" scheme="https://alban-lautie.github.io/rc-blog/categories/Informations/Avions/"/>
     
-      <category term="Hélicoptères" scheme="https://alban-lautie.github.io/categories/Informations/Avions/Helicopteres/"/>
+      <category term="Hélicoptères" scheme="https://alban-lautie.github.io/rc-blog/categories/Informations/Avions/Helicopteres/"/>
     
-      <category term="Drones" scheme="https://alban-lautie.github.io/categories/Informations/Avions/Helicopteres/Drones/"/>
+      <category term="Drones" scheme="https://alban-lautie.github.io/rc-blog/categories/Informations/Avions/Helicopteres/Drones/"/>
     
     
-      <category term="Aéromodélisme" scheme="https://alban-lautie.github.io/tags/Aeromodelisme/"/>
+      <category term="Aéromodélisme" scheme="https://alban-lautie.github.io/rc-blog/tags/Aeromodelisme/"/>
     
   </entry>
   
   <entry>
     <title>Faut il s&#39;inscrire à la FFAM ?</title>
-    <link href="https://alban-lautie.github.io/02/02/2017/Faut-il-s-inscrire-a-la-FFAM/"/>
-    <id>https://alban-lautie.github.io/02/02/2017/Faut-il-s-inscrire-a-la-FFAM/</id>
+    <link href="https://alban-lautie.github.io/rc-blog/02/02/2017/Faut-il-s-inscrire-a-la-FFAM/"/>
+    <id>https://alban-lautie.github.io/rc-blog/02/02/2017/Faut-il-s-inscrire-a-la-FFAM/</id>
     <published>2017-02-02T17:00:00.000Z</published>
     <updated>2017-02-23T18:58:53.000Z</updated>
     
@@ -283,19 +283,19 @@
     
     </summary>
     
-      <category term="Informations" scheme="https://alban-lautie.github.io/categories/Informations/"/>
+      <category term="Informations" scheme="https://alban-lautie.github.io/rc-blog/categories/Informations/"/>
     
     
-      <category term="Aéromodélisme" scheme="https://alban-lautie.github.io/tags/Aeromodelisme/"/>
+      <category term="Aéromodélisme" scheme="https://alban-lautie.github.io/rc-blog/tags/Aeromodelisme/"/>
     
-      <category term="FFAM" scheme="https://alban-lautie.github.io/tags/FFAM/"/>
+      <category term="FFAM" scheme="https://alban-lautie.github.io/rc-blog/tags/FFAM/"/>
     
   </entry>
   
   <entry>
     <title>Les dangers de l&#39;aéromodélisme</title>
-    <link href="https://alban-lautie.github.io/01/02/2017/Les-dangers-de-l-aeromodelisme/"/>
-    <id>https://alban-lautie.github.io/01/02/2017/Les-dangers-de-l-aeromodelisme/</id>
+    <link href="https://alban-lautie.github.io/rc-blog/01/02/2017/Les-dangers-de-l-aeromodelisme/"/>
+    <id>https://alban-lautie.github.io/rc-blog/01/02/2017/Les-dangers-de-l-aeromodelisme/</id>
     <published>2017-02-01T17:00:00.000Z</published>
     <updated>2017-02-23T18:58:38.000Z</updated>
     
@@ -307,19 +307,19 @@
     
     </summary>
     
-      <category term="Informations" scheme="https://alban-lautie.github.io/categories/Informations/"/>
+      <category term="Informations" scheme="https://alban-lautie.github.io/rc-blog/categories/Informations/"/>
     
     
-      <category term="Aéromodélisme" scheme="https://alban-lautie.github.io/tags/Aeromodelisme/"/>
+      <category term="Aéromodélisme" scheme="https://alban-lautie.github.io/rc-blog/tags/Aeromodelisme/"/>
     
-      <category term="Dangers" scheme="https://alban-lautie.github.io/tags/Dangers/"/>
+      <category term="Dangers" scheme="https://alban-lautie.github.io/rc-blog/tags/Dangers/"/>
     
   </entry>
   
   <entry>
     <title>Les dangers des batteries lithium</title>
-    <link href="https://alban-lautie.github.io/31/01/2017/Les-dangers-des-batteries-lithium/"/>
-    <id>https://alban-lautie.github.io/31/01/2017/Les-dangers-des-batteries-lithium/</id>
+    <link href="https://alban-lautie.github.io/rc-blog/31/01/2017/Les-dangers-des-batteries-lithium/"/>
+    <id>https://alban-lautie.github.io/rc-blog/31/01/2017/Les-dangers-des-batteries-lithium/</id>
     <published>2017-01-31T17:00:00.000Z</published>
     <updated>2017-02-23T18:58:14.000Z</updated>
     
@@ -331,24 +331,24 @@
     
     </summary>
     
-      <category term="Informations" scheme="https://alban-lautie.github.io/categories/Informations/"/>
+      <category term="Informations" scheme="https://alban-lautie.github.io/rc-blog/categories/Informations/"/>
     
-      <category term="Voitures" scheme="https://alban-lautie.github.io/categories/Informations/Voitures/"/>
+      <category term="Voitures" scheme="https://alban-lautie.github.io/rc-blog/categories/Informations/Voitures/"/>
     
-      <category term="Bateaux" scheme="https://alban-lautie.github.io/categories/Informations/Voitures/Bateaux/"/>
+      <category term="Bateaux" scheme="https://alban-lautie.github.io/rc-blog/categories/Informations/Voitures/Bateaux/"/>
     
-      <category term="Avions" scheme="https://alban-lautie.github.io/categories/Informations/Voitures/Bateaux/Avions/"/>
+      <category term="Avions" scheme="https://alban-lautie.github.io/rc-blog/categories/Informations/Voitures/Bateaux/Avions/"/>
     
-      <category term="Hélicoptères" scheme="https://alban-lautie.github.io/categories/Informations/Voitures/Bateaux/Avions/Helicopteres/"/>
+      <category term="Hélicoptères" scheme="https://alban-lautie.github.io/rc-blog/categories/Informations/Voitures/Bateaux/Avions/Helicopteres/"/>
     
-      <category term="Drones" scheme="https://alban-lautie.github.io/categories/Informations/Voitures/Bateaux/Avions/Helicopteres/Drones/"/>
+      <category term="Drones" scheme="https://alban-lautie.github.io/rc-blog/categories/Informations/Voitures/Bateaux/Avions/Helicopteres/Drones/"/>
     
     
-      <category term="Aéromodélisme" scheme="https://alban-lautie.github.io/tags/Aeromodelisme/"/>
+      <category term="Aéromodélisme" scheme="https://alban-lautie.github.io/rc-blog/tags/Aeromodelisme/"/>
     
-      <category term="Dangers" scheme="https://alban-lautie.github.io/tags/Dangers/"/>
+      <category term="Dangers" scheme="https://alban-lautie.github.io/rc-blog/tags/Dangers/"/>
     
-      <category term="Batterie" scheme="https://alban-lautie.github.io/tags/Batterie/"/>
+      <category term="Batterie" scheme="https://alban-lautie.github.io/rc-blog/tags/Batterie/"/>
     
   </entry>
   

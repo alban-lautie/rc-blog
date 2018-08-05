@@ -1,265 +1,265 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://alban-lautie.github.io</loc>
+        <loc>https://alban-lautie.github.io/rc-blog</loc>
         <changefreq>daily</changefreq>
         <priority>1</priority>
     </url>
 
     <url>
-        <loc>https://alban-lautie.github.io/categories/Informations/Voitures/</loc>
+        <loc>https://alban-lautie.github.io/rc-blog/categories/Informations/Voitures/</loc>
         <lastmod>2017-02-23T18:58:14.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://alban-lautie.github.io/categories/Informations/Voitures/Bateaux/</loc>
+        <loc>https://alban-lautie.github.io/rc-blog/categories/Informations/Voitures/Bateaux/</loc>
         <lastmod>2017-02-23T18:58:14.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://alban-lautie.github.io/categories/Informations/Voitures/Bateaux/Avions/</loc>
+        <loc>https://alban-lautie.github.io/rc-blog/categories/Informations/Voitures/Bateaux/Avions/</loc>
         <lastmod>2017-02-23T18:58:14.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://alban-lautie.github.io/categories/Informations/Voitures/Bateaux/Avions/Helicopteres/</loc>
+        <loc>https://alban-lautie.github.io/rc-blog/categories/Informations/Voitures/Bateaux/Avions/Helicopteres/</loc>
         <lastmod>2017-02-23T18:58:14.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://alban-lautie.github.io/categories/Informations/Voitures/Bateaux/Avions/Helicopteres/Drones/</loc>
+        <loc>https://alban-lautie.github.io/rc-blog/categories/Informations/Voitures/Bateaux/Avions/Helicopteres/Drones/</loc>
         <lastmod>2017-02-23T18:58:14.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://alban-lautie.github.io/categories/Informations/Avions/Helicopteres/Drones/</loc>
+        <loc>https://alban-lautie.github.io/rc-blog/categories/Informations/Avions/Helicopteres/Drones/</loc>
         <lastmod>2017-03-04T12:25:17.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://alban-lautie.github.io/categories/Tests/</loc>
+        <loc>https://alban-lautie.github.io/rc-blog/categories/Tests/</loc>
         <lastmod>2017-03-10T18:39:06.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://alban-lautie.github.io/categories/Tests/Avions/</loc>
+        <loc>https://alban-lautie.github.io/rc-blog/categories/Tests/Avions/</loc>
         <lastmod>2017-03-10T18:39:06.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://alban-lautie.github.io/categories/Constructions/</loc>
+        <loc>https://alban-lautie.github.io/rc-blog/categories/Constructions/</loc>
         <lastmod>2017-03-27T12:07:57.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://alban-lautie.github.io/categories/Constructions/Avions/</loc>
+        <loc>https://alban-lautie.github.io/rc-blog/categories/Constructions/Avions/</loc>
         <lastmod>2017-03-27T12:07:57.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://alban-lautie.github.io/categories/Constructions/Avions/Indoor/</loc>
+        <loc>https://alban-lautie.github.io/rc-blog/categories/Constructions/Avions/Indoor/</loc>
         <lastmod>2017-03-27T12:07:57.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://alban-lautie.github.io/categories/Informations/Bateaux/</loc>
+        <loc>https://alban-lautie.github.io/rc-blog/categories/Informations/Bateaux/</loc>
         <lastmod>2017-03-30T21:55:26.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://alban-lautie.github.io/categories/Informations/Bateaux/Avions/</loc>
+        <loc>https://alban-lautie.github.io/rc-blog/categories/Informations/Bateaux/Avions/</loc>
         <lastmod>2017-03-30T21:55:26.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://alban-lautie.github.io/categories/Informations/Bateaux/Avions/Helicopteres/</loc>
+        <loc>https://alban-lautie.github.io/rc-blog/categories/Informations/Bateaux/Avions/Helicopteres/</loc>
         <lastmod>2017-03-30T21:55:26.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://alban-lautie.github.io/categories/Informations/Bateaux/Avions/Helicopteres/Voitures/</loc>
+        <loc>https://alban-lautie.github.io/rc-blog/categories/Informations/Bateaux/Avions/Helicopteres/Voitures/</loc>
         <lastmod>2017-03-30T21:55:26.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://alban-lautie.github.io/categories/Informations/Bateaux/Avions/Helicopteres/Voitures/Drones/</loc>
+        <loc>https://alban-lautie.github.io/rc-blog/categories/Informations/Bateaux/Avions/Helicopteres/Voitures/Drones/</loc>
         <lastmod>2017-03-30T21:55:26.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://alban-lautie.github.io/categories/Informations/Avions/</loc>
+        <loc>https://alban-lautie.github.io/rc-blog/categories/Informations/Avions/</loc>
         <lastmod>2017-04-03T11:49:11.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://alban-lautie.github.io/categories/Informations/Avions/Helicopteres/</loc>
+        <loc>https://alban-lautie.github.io/rc-blog/categories/Informations/Avions/Helicopteres/</loc>
         <lastmod>2017-04-03T11:49:11.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://alban-lautie.github.io/categories/Informations/Avions/Helicopteres/Bateaux/</loc>
+        <loc>https://alban-lautie.github.io/rc-blog/categories/Informations/Avions/Helicopteres/Bateaux/</loc>
         <lastmod>2017-04-03T11:49:11.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://alban-lautie.github.io/categories/Informations/Avions/Helicopteres/Bateaux/Voitures/</loc>
+        <loc>https://alban-lautie.github.io/rc-blog/categories/Informations/Avions/Helicopteres/Bateaux/Voitures/</loc>
         <lastmod>2017-04-03T11:49:11.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://alban-lautie.github.io/categories/Informations/Avions/Helicopteres/Bateaux/Voitures/Drones/</loc>
+        <loc>https://alban-lautie.github.io/rc-blog/categories/Informations/Avions/Helicopteres/Bateaux/Voitures/Drones/</loc>
         <lastmod>2017-04-03T11:49:11.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://alban-lautie.github.io/categories/Unboxing/</loc>
+        <loc>https://alban-lautie.github.io/rc-blog/categories/Unboxing/</loc>
         <lastmod>2017-04-07T11:59:45.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://alban-lautie.github.io/categories/Unboxing/Radiocommandes/</loc>
+        <loc>https://alban-lautie.github.io/rc-blog/categories/Unboxing/Radiocommandes/</loc>
         <lastmod>2017-04-07T11:59:45.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://alban-lautie.github.io/categories/Tutoriels/</loc>
+        <loc>https://alban-lautie.github.io/rc-blog/categories/Tutoriels/</loc>
         <lastmod>2017-04-11T12:04:52.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://alban-lautie.github.io/categories/Tutoriels/Radiocommandes/</loc>
+        <loc>https://alban-lautie.github.io/rc-blog/categories/Tutoriels/Radiocommandes/</loc>
         <lastmod>2017-04-11T12:04:52.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://alban-lautie.github.io/categories/Tutoriels/Radiocommandes/Avions/</loc>
+        <loc>https://alban-lautie.github.io/rc-blog/categories/Tutoriels/Radiocommandes/Avions/</loc>
         <lastmod>2017-04-11T12:04:52.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://alban-lautie.github.io/categories/Tutoriels/Radiocommandes/Avions/Bateaux/</loc>
+        <loc>https://alban-lautie.github.io/rc-blog/categories/Tutoriels/Radiocommandes/Avions/Bateaux/</loc>
         <lastmod>2017-04-11T12:04:52.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://alban-lautie.github.io/categories/Tutoriels/Radiocommandes/Avions/Bateaux/Helicopteres/</loc>
+        <loc>https://alban-lautie.github.io/rc-blog/categories/Tutoriels/Radiocommandes/Avions/Bateaux/Helicopteres/</loc>
         <lastmod>2017-04-11T12:04:52.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://alban-lautie.github.io/categories/Tutoriels/Radiocommandes/Avions/Bateaux/Helicopteres/Drones/</loc>
+        <loc>https://alban-lautie.github.io/rc-blog/categories/Tutoriels/Radiocommandes/Avions/Bateaux/Helicopteres/Drones/</loc>
         <lastmod>2017-04-11T12:04:52.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://alban-lautie.github.io/categories/Tutoriels/Radiocommandes/Avions/Bateaux/Helicopteres/Drones/Voitures/</loc>
+        <loc>https://alban-lautie.github.io/rc-blog/categories/Tutoriels/Radiocommandes/Avions/Bateaux/Helicopteres/Drones/Voitures/</loc>
         <lastmod>2017-04-11T12:04:52.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://alban-lautie.github.io/categories/Informations/</loc>
+        <loc>https://alban-lautie.github.io/rc-blog/categories/Informations/</loc>
         <lastmod>2017-04-11T12:04:58.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://alban-lautie.github.io/categories/Informations/Tutoriels/</loc>
+        <loc>https://alban-lautie.github.io/rc-blog/categories/Informations/Tutoriels/</loc>
         <lastmod>2017-04-11T12:04:58.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://alban-lautie.github.io/categories/Informations/Tutoriels/Avions/</loc>
+        <loc>https://alban-lautie.github.io/rc-blog/categories/Informations/Tutoriels/Avions/</loc>
         <lastmod>2017-04-11T12:04:58.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://alban-lautie.github.io/categories/Informations/Tutoriels/Avions/Drones/</loc>
+        <loc>https://alban-lautie.github.io/rc-blog/categories/Informations/Tutoriels/Avions/Drones/</loc>
         <lastmod>2017-04-11T12:04:58.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://alban-lautie.github.io/categories/Informations/Tutoriels/Avions/Drones/Voitures/</loc>
+        <loc>https://alban-lautie.github.io/rc-blog/categories/Informations/Tutoriels/Avions/Drones/Voitures/</loc>
         <lastmod>2017-04-11T12:04:58.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://alban-lautie.github.io/categories/Informations/Tutoriels/Avions/Drones/Voitures/Helicopteres/</loc>
+        <loc>https://alban-lautie.github.io/rc-blog/categories/Informations/Tutoriels/Avions/Drones/Voitures/Helicopteres/</loc>
         <lastmod>2017-04-11T12:04:58.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://alban-lautie.github.io/categories/Informations/Tutoriels/Avions/Drones/Voitures/Helicopteres/Bateaux/</loc>
+        <loc>https://alban-lautie.github.io/rc-blog/categories/Informations/Tutoriels/Avions/Drones/Voitures/Helicopteres/Bateaux/</loc>
         <lastmod>2017-04-11T12:04:58.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>

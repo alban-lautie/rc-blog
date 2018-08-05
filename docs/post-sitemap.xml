@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://alban-lautie.github.io</loc>
+        <loc>https://alban-lautie.github.io/rc-blog</loc>
         <changefreq>daily</changefreq>
         <priority>1</priority>
     </url>
 
     <url>
-        <loc>https://alban-lautie.github.io/07/04/2017/Comment-lier-sont-recepteur-avec-la-radio-Frsky-XD9-Plus/</loc>
+        <loc>https://alban-lautie.github.io/rc-blog/07/04/2017/Comment-lier-sont-recepteur-avec-la-radio-Frsky-XD9-Plus/</loc>
         <lastmod>2017-04-11T12:04:58.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -15,7 +15,7 @@
     </url>
 
     <url>
-        <loc>https://alban-lautie.github.io/11/04/2017/Passer-du-mode-2-au-mode-1-sur-la-taranis-XD9-PLUS/</loc>
+        <loc>https://alban-lautie.github.io/rc-blog/11/04/2017/Passer-du-mode-2-au-mode-1-sur-la-taranis-XD9-PLUS/</loc>
         <lastmod>2017-04-11T12:04:52.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -23,7 +23,7 @@
     </url>
 
     <url>
-        <loc>https://alban-lautie.github.io/03/04/2017/Unboxing-Ma-nouvelle-telecommande-Frsky-XD9-PLUS/</loc>
+        <loc>https://alban-lautie.github.io/rc-blog/03/04/2017/Unboxing-Ma-nouvelle-telecommande-Frsky-XD9-PLUS/</loc>
         <lastmod>2017-04-07T11:59:45.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -31,7 +31,7 @@
     </url>
 
     <url>
-        <loc>https://alban-lautie.github.io/31/03/2017/Batteries-lithium-vs-graphene/</loc>
+        <loc>https://alban-lautie.github.io/rc-blog/31/03/2017/Batteries-lithium-vs-graphene/</loc>
         <lastmod>2017-04-03T11:49:11.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -39,7 +39,7 @@
     </url>
 
     <url>
-        <loc>https://alban-lautie.github.io/27/03/2017/5-astuces-pour-stocker-ses-batteries-au-lithium/</loc>
+        <loc>https://alban-lautie.github.io/rc-blog/27/03/2017/5-astuces-pour-stocker-ses-batteries-au-lithium/</loc>
         <lastmod>2017-03-30T21:55:26.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -47,7 +47,7 @@
     </url>
 
     <url>
-        <loc>https://alban-lautie.github.io/10/03/2017/Construction-du-mercury-Indoor-en-depron/</loc>
+        <loc>https://alban-lautie.github.io/rc-blog/10/03/2017/Construction-du-mercury-Indoor-en-depron/</loc>
         <lastmod>2017-03-27T12:07:57.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -55,7 +55,7 @@
     </url>
 
     <url>
-        <loc>https://alban-lautie.github.io/03/03/2017/Test-du-cessna-182-F949-de-chez-WLtoys/</loc>
+        <loc>https://alban-lautie.github.io/rc-blog/03/03/2017/Test-du-cessna-182-F949-de-chez-WLtoys/</loc>
         <lastmod>2017-03-10T18:39:06.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -63,7 +63,7 @@
     </url>
 
     <url>
-        <loc>https://alban-lautie.github.io/24/02/2017/Ou-voler-avec-mon-drone-ou-avion/</loc>
+        <loc>https://alban-lautie.github.io/rc-blog/24/02/2017/Ou-voler-avec-mon-drone-ou-avion/</loc>
         <lastmod>2017-03-04T12:25:17.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -71,7 +71,7 @@
     </url>
 
     <url>
-        <loc>https://alban-lautie.github.io/02/02/2017/Faut-il-s-inscrire-a-la-FFAM/</loc>
+        <loc>https://alban-lautie.github.io/rc-blog/02/02/2017/Faut-il-s-inscrire-a-la-FFAM/</loc>
         <lastmod>2017-02-23T18:58:53.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -79,7 +79,7 @@
     </url>
 
     <url>
-        <loc>https://alban-lautie.github.io/01/02/2017/Les-dangers-de-l-aeromodelisme/</loc>
+        <loc>https://alban-lautie.github.io/rc-blog/01/02/2017/Les-dangers-de-l-aeromodelisme/</loc>
         <lastmod>2017-02-23T18:58:38.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -87,7 +87,7 @@
     </url>
 
     <url>
-        <loc>https://alban-lautie.github.io/31/01/2017/Les-dangers-des-batteries-lithium/</loc>
+        <loc>https://alban-lautie.github.io/rc-blog/31/01/2017/Les-dangers-des-batteries-lithium/</loc>
         <lastmod>2017-02-23T18:58:14.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
