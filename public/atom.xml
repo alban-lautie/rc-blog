@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Modélisme (Informations / Tests / Tutoriels) | RC-blog</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://rc-blog.fr/"/>
+  <updated>2017-04-11T12:04:52.000Z</updated>
+  <id>https://rc-blog.fr/</id>
+  
+  <author>
+    <name>Alban Lautié</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Comment changer le mode de pilotage (mode 1 ou 2) sur la taranis XD9 PLUS</title>
+    <link href="https://rc-blog.fr/11/04/2017/Passer-du-mode-2-au-mode-1-sur-la-taranis-XD9-PLUS/"/>
+    <id>https://rc-blog.fr/11/04/2017/Passer-du-mode-2-au-mode-1-sur-la-taranis-XD9-PLUS/</id>
+    <published>2017-04-11T16:00:00.000Z</published>
+    <updated>2017-04-11T12:04:52.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Bonjour à tous.<br>Aujourd’hui, je vous propose un tutoriel pour modifier le mode de pilotage sur les radios FrSky. Pour ma part, je souhaitais passer du mode 2 au mode 1. Mais le tutoriel marche aussi pour faire l’inverse.</p><a id="more"></a><h2 id="Prerequis"><a href="#Prerequis" class="headerlink" title="Prérequis"></a>Prérequis</h2><p>Matériel :</p><ul><li>un tournevis cruciforme</li></ul><p>Niveau : Facile<br>Temps : 5 - 10 min</p><h2 id="Etape-1-Demonter-la-radiocommande"><a href="#Etape-1-Demonter-la-radiocommande" class="headerlink" title="Étape 1 : Démonter la radiocommande"></a>Étape 1 : Démonter la radiocommande</h2><h3 id="Devisser-les-elements"><a href="#Devisser-les-elements" class="headerlink" title="Dévisser les éléments"></a>Dévisser les éléments</h3><p>Pour commencer, vous allez devoir démonter votre radiocommande en dévissant les 6 vis qui se trouvent à l’arrière de la radio (entouré en rouge sur la photo).</p><p><img src="IMG_4913.jpg" alt="Dévisser la radio" title="Dévisser la radio"></p><p>Ensuite, dévisser les anneaux retenant les 2 boutons situés en haute à droite et à gauche.</p><p><img src="IMG_4926.jpg" alt="Retirer les boutons" title="Retirer les boutons"><br>Seul celui entouré a besoin d’être dévissé. Attention, il y’a le même de l’autre côté.</p><h3 id="Ouvrir-la-radiocommande"><a href="#Ouvrir-la-radiocommande" class="headerlink" title="Ouvrir la radiocommande"></a>Ouvrir la radiocommande</h3><p>Maintenant que toutes les vis sont enlevées, nous allons pouvoir ouvrir la télécommande. Poser la dos vers le haut et tirer délicatement la partie noire de la coque. Pas la peine de forcé, si vous n’y arriver pas vous avez sûrement oublié une vis.</p><p><img src="IMG_4914.jpg" alt="Ouvrir la radio" title="Ouvrir la radio"></p><h4 id="Facultatif-Deconnecter-les-nappes"><a href="#Facultatif-Deconnecter-les-nappes" class="headerlink" title="[Facultatif] - Déconnecter les nappes"></a>[Facultatif] - Déconnecter les nappes</h4><p>Vous pouvez si vous le souhaitez déconnecter les nappes. Cela vous donnera plus de liberté dans les mouvements, car vous pourrez dissocier les deux parties de votre radio.</p><p>Elles sont représentées en blues sur les photos ci-dessus et ci-dessous. Pour les enlever, vous allez devoir tiret le plastique noir vers le haut. <strong>Attention, il ne faut pas l’enlever. Il faut juste le remonter un peu</strong>.</p><p>Pour remettre les nappes, il faudra insérer la nappe puis redescendre le plastique noir.</p><p><img src="IMG_4915.jpg" alt="Déconnexion des nappes" title="Déconnexion des nappes"></p><h2 id="Etape-2-Modifier-le-mode"><a href="#Etape-2-Modifier-le-mode" class="headerlink" title="Étape 2 : Modifier le mode"></a>Étape 2 : Modifier le mode</h2><p>Maintenant que notre radio est ouverte, nous allons pouvoir modifier le mode de la radio. Vous allez voir cette étape est très facile.</p><h3 id="Etape-2-1"><a href="#Etape-2-1" class="headerlink" title="Étape 2.1"></a>Étape 2.1</h3><p>Dans un premier temps, vous allez repérer le manche des gaz actuel. Dans mon cas, j’étais initialement en mode 2, soit le manche des gaz était à gauche donc quand on retourne la radio, celui-ci se retrouve à droite.</p><p>Pour commencer vous allez viser la vis du ressort qui se retrouve en haut à droite ou sa symétrie si vous êtes sur l’autre manche.</p><p><img src="IMG_4918.jpg" alt=""></p><p>Ensuite, deviser les deux visse du ressort des crans. Dévissez-les jusqu’à ce que les plaques ne touchent plus les crans en plastique. Vous pouvez au fur et à mesure vérifier que le manche n’a plus de crans.</p><p><img src="IMG_4919.jpg" alt=""></p><p><img src="IMG_4920.jpg" alt=""></p><p>Dernières étapes pour ce manche vous allez devoir dévisser la vis qui ce situe en bas à droite ou à ça symétrie pour l’autre manche.</p><p>Dévissez-la de la même longueur que sur la photo. Soit 5 à 8mm.<br><img src="IMG_4921.jpg" alt=""></p><p>Une fois, c’est 3 parties réalisées, votre manche devrait être centré au milieu avec le retour à la position neutre. Les 2 manches de la radio sont exactement pareils.</p><h3 id="Etape-2-2"><a href="#Etape-2-2" class="headerlink" title="Étape 2.2"></a>Étape 2.2</h3><p>Maintenant dans la partie deux, il va falloir activer le crantage sur le manche qui vous intéresse. Pour cela on refait les étapes à l’inverse.</p><p>Pour rappel, on a modifié le manche entouré en jaune sur la photo ci-dessous pour le passer en position centrale.</p><p><img src="IMG_4922.jpg" alt=""></p><p>Maintenant ,on va faire l’étape inverse sur l’autre manche pour activer le crantage.<br>Sur la photo, j’ai fait un récaptilatif de toutes les étapes à faire.</p><p>Pour passer en mode 1 depuis le mode 2, vous dévissez les vis entourées en rouge et vissez les vis entourées en bleue.</p><p>Si vous passez en mode 2 depuis le mode 1, vous faites l’inverse. Vous vissez les vis entourées en rouges et dévissez les vis entourées en bleue.</p><p>Une fois, tout ceci fait penser à vérifier que les manches bougent bien et comme vous le souhaitez et remonter la radio.</p><p>Pensez à remettre les nappes sur le connecteur si vous les avez enlevés.</p><p>Maintenant, on va pouvoir passer à la dernière étape.</p><h2 id="Etape-3-Configurer-la-radio"><a href="#Etape-3-Configurer-la-radio" class="headerlink" title="Étape 3 - Configurer la radio"></a>Étape 3 - Configurer la radio</h2><p>Tout d’abord, allumer votre radio puis rendez-vous dans le menu de configuration.<br>Voir la photo ci-dessous.</p><p><img src="IMG_4929.jpg" alt=""></p><p>Descendez tout en bas de la page menue jusqu’à l’option “mode”. Une fois ici, éditer le mode avec le bouton “entrer” et sélectionné le mode souhaitez.</p><p><img src="IMG_4930.jpg" alt=""><br><img src="IMG_4931.jpg" alt=""></p><p>Voilà, vous pouvez sortir du menu et vous êtes fin prêt pour voler :)</p><p>Si vous avez des questions, n’hésitez pas à laisser un message dans les commentaires.</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Bonjour à tous.&lt;br&gt;Aujourd’hui, je vous propose un tutoriel pour modifier le mode de pilotage sur les radios FrSky. Pour ma part, je souhaitais passer du mode 2 au mode 1. Mais le tutoriel marche aussi pour faire l’inverse.&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Tutoriels" scheme="https://rc-blog.fr/categories/Tutoriels/"/>
+    
+      <category term="Radiocommandes" scheme="https://rc-blog.fr/categories/Tutoriels/Radiocommandes/"/>
+    
+      <category term="Avions" scheme="https://rc-blog.fr/categories/Tutoriels/Radiocommandes/Avions/"/>
+    
+      <category term="Bateaux" scheme="https://rc-blog.fr/categories/Tutoriels/Radiocommandes/Avions/Bateaux/"/>
+    
+      <category term="Hélicoptères" scheme="https://rc-blog.fr/categories/Tutoriels/Radiocommandes/Avions/Bateaux/Helicopteres/"/>
+    
+      <category term="Drones" scheme="https://rc-blog.fr/categories/Tutoriels/Radiocommandes/Avions/Bateaux/Helicopteres/Drones/"/>
+    
+      <category term="Voitures" scheme="https://rc-blog.fr/categories/Tutoriels/Radiocommandes/Avions/Bateaux/Helicopteres/Drones/Voitures/"/>
+    
+    
+      <category term="Tutos" scheme="https://rc-blog.fr/tags/Tutos/"/>
+    
+      <category term="FrSky" scheme="https://rc-blog.fr/tags/FrSky/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Comment lier son récepteur avec la radio (Frsky XD9 Plus)</title>
+    <link href="https://rc-blog.fr/07/04/2017/Comment-lier-sont-recepteur-avec-la-radio-Frsky-XD9-Plus/"/>
+    <id>https://rc-blog.fr/07/04/2017/Comment-lier-sont-recepteur-avec-la-radio-Frsky-XD9-Plus/</id>
+    <published>2017-04-07T16:00:00.000Z</published>
+    <updated>2017-04-11T12:04:58.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Aujourd’hui, je vous propose un petit tutoriel pour binder votre radio (Frsky XD9 plus) avec vos récepteurs.</p><a id="more"></a><h2 id="Etape-1-Connaitre-le-protocole-de-communication-du-recepteur"><a href="#Etape-1-Connaitre-le-protocole-de-communication-du-recepteur" class="headerlink" title="Étape 1 - Connaître le protocole de communication du récepteur"></a>Étape 1 - Connaître le protocole de communication du récepteur</h2><p>La XD9 plus possède deux modes de communication par défaut put-être plus si vous avez une ancienne version ou une version étrangères. Ce sont les modes D16 et LTB.</p><p>Il vous faudra vous renseigner sur le mode utilisé par le récepteur que vous souhaitez binder. Pour ma part ici, je souhaite binder un récepteur DR4-II. Pas de chance le mode de communication est D8. Si vous avez suivi, sur les nouvelles versions des radios Frsky ce mode-là n’est pas activé. Pour pouvoir activer ce mode, il vous faudra flasher votre radio avec le logiciel companion (<a href="http://www.open-tx.org/downloads" target="_blank" rel="external">lien pour télécharger le logiciel</a>) et votre ordinateur. Bientôt, je vous ferrais un article pour activer ce mode et flasher votre radio.</p><p>En cherchant sur internet ou dans le manuel, vous trouverez le mode de communication de votre récepteur.</p><h2 id="Etape-2-Creation-et-parametrage-du-modele-sur-la-radio"><a href="#Etape-2-Creation-et-parametrage-du-modele-sur-la-radio" class="headerlink" title="Étape 2 - Création et paramétrage du modèle sur la radio"></a>Étape 2 - Création et paramétrage du modèle sur la radio</h2><p>Maintenant que vous connaissez le mode de communication, vous allez devoir créer un nouveau modèle sur votre radio, une fois ceci fait rendez-vous dans la première page de configuration. Descendez tout en bas, vous aurez une section “internal HF” avec le paramètre “mode”. Ici, sélectionner le mode qui correspond à votre récepteur.</p><p><img src="IMG_4957.jpg" alt="Selection du mode" title="Selection du mode"></p><p>Une fois cette partie réalisée, nous allons pouvoir binder notre récepteur.</p><h2 id="Etape-3-Realisation-du-bindage"><a href="#Etape-3-Realisation-du-bindage" class="headerlink" title="Étape 3 - Réalisation du bindage"></a>Étape 3 - Réalisation du bindage</h2><p>Pour ce faire, ne quittez pas le menu. Juste en dessous de mode, vous allez voir le paramètre bind. Sélectionnez-le. Celui-ci doit clignoter et votre radio doit faire un bip régulier.</p><p><img src="IMG_4958.jpg" alt="Lancement du processus de bindage" title="Lancement du processus de bindage"></p><p>Une fois cette partie faite, rendez-vous du côté du récepteur. Vous allez appuyer sur le bouton F/S du récepteur tout en branchant votre batterie (oui cette étape est un peu périlleuse).</p><p><img src="IMG_4959.jpg" alt="Lancement du processus de bindage - étape 2" title="Lancement du processus de bindage - étape 2"></p><p>À ce moment-là, la LED clignotera en rouge puis très rapidement en vert et rouge maintenant cette étape est terminée.<br>Vous pouvez débrancher la batterie de votre modèle puis sortir du menu dans la radio.</p><p>Une fois ceci fait, vous allez rebrancher la batterie de votre modèle et vous allez voir sur votre radio l’icône de la batterie de votre récepteur et la LED de votre récepteur sera verte et fixe. Maintenant, la liaison entre la radio et le récepteur est effective. Vous pouvez aller profiter de votre modèle. :)</p><p>Si vous rencontrez des problèmes, n’hésitez pas à laisser un commentaire.</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Aujourd’hui, je vous propose un petit tutoriel pour binder votre radio (Frsky XD9 plus) avec vos récepteurs.&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Informations" scheme="https://rc-blog.fr/categories/Informations/"/>
+    
+      <category term="Tutoriels" scheme="https://rc-blog.fr/categories/Informations/Tutoriels/"/>
+    
+      <category term="Avions" scheme="https://rc-blog.fr/categories/Informations/Tutoriels/Avions/"/>
+    
+      <category term="Drones" scheme="https://rc-blog.fr/categories/Informations/Tutoriels/Avions/Drones/"/>
+    
+      <category term="Voitures" scheme="https://rc-blog.fr/categories/Informations/Tutoriels/Avions/Drones/Voitures/"/>
+    
+      <category term="Hélicoptères" scheme="https://rc-blog.fr/categories/Informations/Tutoriels/Avions/Drones/Voitures/Helicopteres/"/>
+    
+      <category term="Bateaux" scheme="https://rc-blog.fr/categories/Informations/Tutoriels/Avions/Drones/Voitures/Helicopteres/Bateaux/"/>
+    
+    
+      <category term="Frsky" scheme="https://rc-blog.fr/tags/Frsky/"/>
+    
+      <category term="Tutos" scheme="https://rc-blog.fr/tags/Tutos/"/>
+    
+      <category term="Bind" scheme="https://rc-blog.fr/tags/Bind/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>[Unboxing] Ma nouvelle télécommande (Frsky XD9 PLUS)</title>
+    <link href="https://rc-blog.fr/03/04/2017/Unboxing-Ma-nouvelle-telecommande-Frsky-XD9-PLUS/"/>
+    <id>https://rc-blog.fr/03/04/2017/Unboxing-Ma-nouvelle-telecommande-Frsky-XD9-PLUS/</id>
+    <published>2017-04-03T16:00:00.000Z</published>
+    <updated>2017-04-07T11:59:45.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Bonjour à toutes et à tous, si vous m’avez suivie sur les réseaux sociaux vous savez que j’ai reçu un colis ce samedi. Mais qu’est-ce que cela peut bien être ?</p><a id="more"></a><p><img src="IMG_4898.jpg" alt="Nouveau colis" title="Nouveau colis"></p><h2 id="Nouvelle-radio"><a href="#Nouvelle-radio" class="headerlink" title="Nouvelle radio"></a>Nouvelle radio</h2><p>Et oui dans le colis, il y’avait bien une nouvelle radiocommande. Il était temps de se mettre à la page avec deux veilles radio en 41 MHz, dont une en panne.<br>Il devenait difficile de voler, j’ai repris la pratique depuis peu et le fait de devoir rerégler à chaque fois la radio quand je changeais de modèle devenait problématique.</p><p>Après quelques recherches pour trouver la nouvelle heureuse élue, je me suis penché sur la marque Frsky. Certains la trouvent difficile à programmer, mais ça ne me fait pas peur. D’ailleurs, je vous partagerai des articles pour pouvoir programmer et utiliser la radio. Donc si vous souhaitez des tutoriels, n’hésitez pas à m’en faire part en commentaire. :)</p><h2 id="Presentation-de-la-Frsky-XD9-PLUS"><a href="#Presentation-de-la-Frsky-XD9-PLUS" class="headerlink" title="Présentation de la Frsky XD9 PLUS"></a>Présentation de la Frsky XD9 PLUS</h2><p><img src="IMG_4910.jpg" alt="Taranis XD9 PLUS" title="Taranis XD9 PLUS"></p><p>La Taranis est une radiocommande très utilisée dans le drone FPV et dans l’aéromodélisme, ce qui fait que l’on retrouve une grande communauté (Idéal pour trouver des solutions à nos problèmes).</p><p>Le seul inconvénient c’est l’absence de manuel en français, mais en cherchant un peu on trouve facilement des tutoriels et les menus de la radio sont très bien faits.</p><h2 id="Ses-caracteristiques"><a href="#Ses-caracteristiques" class="headerlink" title="Ses caractéristiques"></a>Ses caractéristiques</h2><h3 id="Les-voies"><a href="#Les-voies" class="headerlink" title="Les voies"></a>Les voies</h3><p>La radio possède 16 voies toutes paramétrables :</p><ul><li>2 manches avec trim associé</li><li>2 potentiomètres : S1 et S2</li><li>2 curseurs latéraux : LS et RS</li><li>6 interrupteurs 3 positions (SA-SE, SG)</li><li>1 interrupteur 2 positions (SF)</li><li>1 interrupteur momentané (SH)</li></ul><h3 id="Autres-caracteristiques"><a href="#Autres-caracteristiques" class="headerlink" title="Autres caractéristiques"></a>Autres caractéristiques</h3><ul><li>Écran LCD rétroéclairé 212x64 mm</li><li>Tous les manches, curseurs, potentiomètres et interrupteurs peuvent être affectés librement</li><li>60 mémoires de modèles</li><li>Module HF interne avec télémétrie capable de transmettre jusqu’à 16 voies avec un taux de rafraîchissement de 9 ms</li><li>3 écrans pour l’affichage de la télémesure personnalisable, data log (nécessite une carte micro SD)</li><li>64 mixages</li><li>9 modes de vol</li><li>Émetteur multimode (1-4)</li><li>Compatible télémétrie « Smart Port »</li><li>16 courbes personnalisables de 3 à 17 points</li><li>Prise écolage de standard JR (jack) capable de recevoir jusqu’à 8 voies et d’envoyer jusqu’à 16 voies.</li><li>Prise jack audio pour brancher un casque (annonce vocale de télémesure)</li><li>Prise mini USB pour connecter l’émetteur au PC (non fourni)</li><li>Multi langue dont le français : l’émetteur est d’origine en anglais, mais vous pouvez le reflashé avec la langue de votre choix</li><li>Firmware open source : <a href="https://www.open-tx.org" title="Site d&#39;open-tx" target="_blank" rel="external">https://www.open-tx.org</a></li></ul><h2 id="Contenue-de-la-boite"><a href="#Contenue-de-la-boite" class="headerlink" title="Contenue de la boîte"></a>Contenue de la boîte</h2><p>Lors que vous allez commander votre radio, vous avez le choix entre plusieurs lots :</p><ul><li>Lot basique comprend :<ul><li>1 émetteur Taranis X9D PLUS</li><li>1 chargeur secteur</li><li>Une sangle de cou</li><li>1 accu NiMh 7.2V 2000mAh</li></ul></li><li>Lot avec récepteur :<ul><li>1 émetteur Taranis X9D PLUS</li><li>1 chargeur secteur</li><li>1 sangle de cou</li><li>1 accu NiMh 7.2V 2000mAh</li><li>1 récepteur RX XSR ou X8R</li></ul></li><li>Lot avec mallette en alu<ul><li>1 émetteur Taranis X9D PLUS</li><li>1 chargeur secteur</li><li>1 sangle de cou</li><li>1 accu NiMh 7.2V 2000mAh</li><li>1 récepteur RX XSR ou X8R</li><li>1 mallette de rangement alu</li></ul></li></ul><h2 id="Frequences"><a href="#Frequences" class="headerlink" title="Fréquences"></a>Fréquences</h2><p>La radio fonctionne en 2,4 GHz et dispose de plusieurs modes de transmission par défaut le D16 et le LTB. Ce sont les modes <strong>eu</strong> pour les habitants en <strong>Europe</strong>.<br>Cependant certain récepteur de la marque fonctionnent en D8 comme le DR4-II très utilisé en FPV.</p><p>En reprogrammant la radiocommande avec un ordinateur vous pourrez réactiver ce mode. Je sortirais un article pour ceux qui le souhaitent.</p><h2 id="Questions"><a href="#Questions" class="headerlink" title="Questions ?"></a>Questions ?</h2><p>Comme d’habitude, si vous avez des questions n’hésitez pas à mettre un commentaire ou m’envoyer un message sur la <a href="https://www.facebook.com/rcblogsite/" title="Page Facebook de rc-blog.fr" target="_blank" rel="external">page Facebook disponible en cliquant ici</a>.</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Bonjour à toutes et à tous, si vous m’avez suivie sur les réseaux sociaux vous savez que j’ai reçu un colis ce samedi. Mais qu’est-ce que cela peut bien être ?&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Unboxing" scheme="https://rc-blog.fr/categories/Unboxing/"/>
+    
+      <category term="Radiocommandes" scheme="https://rc-blog.fr/categories/Unboxing/Radiocommandes/"/>
+    
+    
+      <category term="Frsky" scheme="https://rc-blog.fr/tags/Frsky/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Batteries : lithium vs graphène</title>
+    <link href="https://rc-blog.fr/31/03/2017/Batteries-lithium-vs-graphene/"/>
+    <id>https://rc-blog.fr/31/03/2017/Batteries-lithium-vs-graphene/</id>
+    <published>2017-03-31T16:00:00.000Z</published>
+    <updated>2017-04-03T11:49:11.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>De nos jours, la technologie avance de plus en plus et de nouveaux types de batteries font leurs apparitions. Dans cet article, nous allons voir ce qu’il en est.</p><a id="more"></a><p><strong>Attention, tous les chiffres annoncés dans l’article sont de l’ordre du théorique.</strong></p><h2 id="Duree-de-vie"><a href="#Duree-de-vie" class="headerlink" title="Durée de vie"></a>Durée de vie</h2><p>Il faut savoir que la durée de vie d’une batterie s’exprime en cycle. Un cycle correspond à une charge puis une décharge. Cependant, le nombre de cycles est une moyenne, il est impossible de savoir le nombre exact de cycles d’une batterie et il peut différer d’une batterie à l’autre même si c’est exactement la même. Le nombre de cycles de notre batterie, va être influé par notre utilisation. Si on tire dessus, si on respecte le taux de décharge à ne pas dépasser, le mode de charge, etc …</p><p>Les batteries au lithium offrent une durée de vie de 100 à 200 cycles, tout dépend de la marque, l’utilisation, le stockage, etc.</p><p><strong>VS</strong></p><p>Les batteries au graphène par contre ont une durée de vie nettement plus élevée, car elles peuvent encaisser 1000 à 1100 cycles. Je précise que ce nombre est théorique, mais il est notable que la durée de vie des batteries au graphène soit supérieure.</p><h2 id="Autonomie"><a href="#Autonomie" class="headerlink" title="Autonomie"></a>Autonomie</h2><p>Maintenant que nous avons étudié la durée de vie de ces deux types de batteries, nous allons nous attarder sur l’autonomie.<br>L’autonomie d’une batterie est l’un des points les plus importants, il est lié à son intensité exprimée en Ampère.<br>Plus la batterie à une intensité élevée plus elle aura de l’autonomie, mais en contrepartie elle sera plus lourde.<br>D’après les tests, les batteries au lithium auraient une autonomie un poil supérieure.</p><p>On parle de 5% environ d’autonomie en plus sur une batterie au lithium par rapport à une batterie au graphène.</p><h2 id="Poids"><a href="#Poids" class="headerlink" title="Poids"></a>Poids</h2><p>Le poids est un critère très important pour nos modèles.<br>Le poids des batteries au graphène est supérieur au poids des batteries lithium. Mais cela s’explique par le faîte que les batteries au graphène sont plus résistantes, car la gaine extérieure et les gaines intérieures sont plus épaisses. Donc en cas de crash, vous aurez moins de chance de retrouver votre batterie percée.</p><p>Pour information, une batterie graphène de 1300 mAh pèse autant qu’une batterie lithium de 1500 mAh.</p><h2 id="Prix"><a href="#Prix" class="headerlink" title="Prix"></a>Prix</h2><p>Comme vous pouvez vous en douter, le prix des batteries au graphène est supérieur à celle des batteries au lithium. Ce n’est pas étonnant vu que les batteries graphène sont une technologie encore jeune et toujours en plein développement. Avec le temps, le prix descendra. Mais si on prend en compte la durée de vie de la batterie, il est intéressant de payer une batterie au graphène plus cher qui dura plus longtemps qu’une batterie lithium moins chère qui dura moins longtemps.<br>Pour ordre d’idée, une batterie lithium coûtera 2 fois moins cher à même capacité qu’une batterie lithium. Je précise que ce n’est qu’approximatif, selon les marques, des promotions éventuelles. ;)</p><h2 id="Conclusion"><a href="#Conclusion" class="headerlink" title="Conclusion"></a>Conclusion</h2><p>Pour conclure, les batteries au graphène ont un avenir prometteur et pour cause de leur durée de vie nettement supérieur. Elles sont aussi plus résistance. Le seul frein peut être le prix. Mais je pense que d’ici quelques années leur prix sera plus attractif.</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;De nos jours, la technologie avance de plus en plus et de nouveaux types de batteries font leurs apparitions. Dans cet article, nous allons voir ce qu’il en est.&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Informations" scheme="https://rc-blog.fr/categories/Informations/"/>
+    
+      <category term="Avions" scheme="https://rc-blog.fr/categories/Informations/Avions/"/>
+    
+      <category term="Hélicoptères" scheme="https://rc-blog.fr/categories/Informations/Avions/Helicopteres/"/>
+    
+      <category term="Bateaux" scheme="https://rc-blog.fr/categories/Informations/Avions/Helicopteres/Bateaux/"/>
+    
+      <category term="Voitures" scheme="https://rc-blog.fr/categories/Informations/Avions/Helicopteres/Bateaux/Voitures/"/>
+    
+      <category term="Drones" scheme="https://rc-blog.fr/categories/Informations/Avions/Helicopteres/Bateaux/Voitures/Drones/"/>
+    
+    
+      <category term="Batteries" scheme="https://rc-blog.fr/tags/Batteries/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>5 astuces pour stocker ses batteries au lithium</title>
+    <link href="https://rc-blog.fr/27/03/2017/5-astuces-pour-stocker-ses-batteries-au-lithium/"/>
+    <id>https://rc-blog.fr/27/03/2017/5-astuces-pour-stocker-ses-batteries-au-lithium/</id>
+    <published>2017-03-27T16:00:00.000Z</published>
+    <updated>2017-03-30T21:55:26.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Bonjour à toutes et à tous. Aujourd’hui, je vous propose une petite astuce pour stocker toutes ses batteries lipo ou autre en sécurité.</p><a id="more"></a><h2 id="1er-astuce"><a href="#1er-astuce" class="headerlink" title="1er astuce"></a>1er astuce</h2><p>La caisse à munition, il vous suffit de vous procurer une caisse à munition et de déposer ses lipos dedans en prenant soin de les rangers. Elle a pour avantage d’être plus efficace qu’une boîte à gâteau et plus facile à transporter qu’un coffre fort.</p><p>C’est le compris idéal entre ces 2 solutions, elle offre robustesse, capacité et maniabilité.<br>Personnellement, j’ai opté pour cette solution, je vous mets en lien celle que je me suis procurée. C’est une caisse d’occasion ce qui lui donne un certain charme.</p><p><a href="http://amzn.to/2ooSSO6" target="_blank" rel="external">Cliquez ici pour voir la caisse à munition</a></p><p><img src="IMG_4888.jpg" alt="Boite à munition"></p><h2 id="2eme-astuce"><a href="#2eme-astuce" class="headerlink" title="2ème astuce"></a>2ème astuce</h2><p>Deuxième astuce, vous pouvez récupérer une vieille boîte à gâteau dans votre placard ou autre du moment qu’elle est en métal. Vous pouvez ensuite y mettre vos batteries en toute sécurité.<br>Attention, n’utilisez pas de boîte en boit, en plastique ou tout autre matériau combustible ça ne protégera rien si ça prend feu. Éviter aussi de mettre du polystyrène ou de la mousse au fond de la boîte pour protéger ce sont des matériaux inflammables.</p><p><img src="boite-fer.jpg" alt="Bunker"></p><h2 id="3eme-astuce"><a href="#3eme-astuce" class="headerlink" title="3ème astuce"></a>3ème astuce</h2><p>La troisième astuce est le sac anti-feu est un sac qui ralentira la combustion si vos batteries ce mettent à brûler. Il est notamment très utilisé lors de la charge des batteries, car c’est à ce moment où les batteries sont le plus instables. Il peut aussi être utilisé pour ranger ses batteries. Mais nous allons voir qu’il y’a des moyens plus efficace et plus sécuritaire de stocker ses batteries.</p><p><img src="fire-bag.jpg" alt="Bunker"></p><h2 id="4eme-astuce"><a href="#4eme-astuce" class="headerlink" title="4ème astuce"></a>4ème astuce</h2><p>Le bunker en parpaing, cette astuce réside à empiler des parpaings dans un coin afin de former un abri. On y déposera ensuite pour y déposer ces lipos. C’est une technique essentiellement utiliser pour la charge des batteries.</p><p><img src="brick_fortress.jpg" alt="Bunker"></p><h2 id="5eme-astuce"><a href="#5eme-astuce" class="headerlink" title="5ème astuce"></a>5ème astuce</h2><p>Cette astuce va peut-être vous paraître loufoque, mais elle est utilisée par certains modélistes. Elle consiste à mettre toutes ses batteries dans un coffre fort. Au moins, si l’une d’elles prend feu quand vous n’êtes pas là vous ne risquez pas de faire brûler toute la maison.<br>Je vous rassure par besoin d’acheter le coffre fort haut de gamme, celui que vous trouvez dans les magasins de bricolage suffit.</p><p>Vous pouvez aussi en trouver sur amazon <a href="http://amzn.to/2ooh1EC" target="_blank" rel="external">ici</a> ou <a href="http://amzn.to/2oohpTA" target="_blank" rel="external">ici</a></p><h2 id="Precaution"><a href="#Precaution" class="headerlink" title="Précaution"></a>Précaution</h2><p>Avant de stocker vos batteries, pensez à décharger (50% de la charge) vos batteries lorsque vous ne les utilisez pas. De nos jours, de nombreux chargeurs sont équipés d’une fonction storage.</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Bonjour à toutes et à tous. Aujourd’hui, je vous propose une petite astuce pour stocker toutes ses batteries lipo ou autre en sécurité.&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Informations" scheme="https://rc-blog.fr/categories/Informations/"/>
+    
+      <category term="Bateaux" scheme="https://rc-blog.fr/categories/Informations/Bateaux/"/>
+    
+      <category term="Avions" scheme="https://rc-blog.fr/categories/Informations/Bateaux/Avions/"/>
+    
+      <category term="Hélicoptères" scheme="https://rc-blog.fr/categories/Informations/Bateaux/Avions/Helicopteres/"/>
+    
+      <category term="Voitures" scheme="https://rc-blog.fr/categories/Informations/Bateaux/Avions/Helicopteres/Voitures/"/>
+    
+      <category term="Drones" scheme="https://rc-blog.fr/categories/Informations/Bateaux/Avions/Helicopteres/Voitures/Drones/"/>
+    
+    
+      <category term="Astuces" scheme="https://rc-blog.fr/tags/Astuces/"/>
+    
+      <category term="Top" scheme="https://rc-blog.fr/tags/Top/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Construction du mercury (Indoor) en dépron</title>
+    <link href="https://rc-blog.fr/10/03/2017/Construction-du-mercury-Indoor-en-depron/"/>
+    <id>https://rc-blog.fr/10/03/2017/Construction-du-mercury-Indoor-en-depron/</id>
+    <published>2017-03-10T17:00:00.000Z</published>
+    <updated>2017-03-27T12:07:57.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Bonjour à toutes et à tous. Aujourd’hui, je vous propose un petit tutoriel sur la construction d’un avion en Dépron pour 130 euros environs électronique comprise.</p><a id="more"></a><h2 id="Presentation-de-l’avion"><a href="#Presentation-de-l’avion" class="headerlink" title="Présentation de l’avion"></a>Présentation de l’avion</h2><p>Le Mercury est un avion indoor pour la pratique du F3P (voltige). Vous pourrez essentiellement l’utilisé en intérieur et en extérieur par vent nul.</p><h3 id="Dimensions"><a href="#Dimensions" class="headerlink" title="Dimensions"></a>Dimensions</h3><ul><li>Envergure: 80 cm</li><li>Longueur: 89 cm</li><li>Poids sans électronique: environ 110 gr</li></ul><h2 id="Prerequis"><a href="#Prerequis" class="headerlink" title="Prérequis"></a>Prérequis</h2><p>Avant de se lancer dans la construction de cet avion, voici la liste du matériel.</p><ul><li>Dépron 6mm (Castorama 81€ le carton de 10 plaques soit 8,10€ pour la construction)</li><li>Colle (Pistolet à colle ou cyanoacrylate)</li><li>Un cutter bien aiguisé</li><li>1 jonc en carbone 2mm</li><li>1 morceau de ctp 3mm</li><li>3 mini servos (35€)</li><li>1 récepteur (environ 30€)</li><li>1 ESC 10A (20€)</li><li>1 moteur brushless (30€)</li><li>1 hélice 9x4.7 (2-3€)</li><li>1 batterie 2S (environ 10€)</li></ul><h2 id="Construction"><a href="#Construction" class="headerlink" title="Construction"></a>Construction</h2><p>Je vous ai déniché les plans et le manuel en français. Vous avez de la chance.</p><h3 id="1er-etape-Decoupage-des-pieces"><a href="#1er-etape-Decoupage-des-pieces" class="headerlink" title="1er étape - Découpage des pièces"></a>1er étape - Découpage des pièces</h3><p>Vous allez imprimer votre plan soit chez un imprimeur ou alors la version A4 puis assembler les feuilles pour former le plan.<br>Ensuite, vous disposerez votre plan sur une plaque de Dépron, pensez à bien fixer avec du scotch afin que cela ne bouge plus.</p><p>Maintenant, il ne reste plus qu’à découper les pièces avec un cutter avec une lame <strong>neuve</strong>. J’insiste sur la lame neuve afin de découper ne Dépron sans le déchirer.</p><p>Pour les plus chanceux, il est possible de faire une version numérique des plans afin de découper les pièces avec une cnc ou une découpe laser. Sachez que dans les grandes villes, on retrouve des fab labs. Ce sont des ateliers disposant de machines numériques (cnc, découpe laser, imprimante 3D, …). Je vous mets le lien <a href="https://www.fablabs.io/" target="_blank" rel="external">https://www.fablabs.io/</a>.</p><p><img src="IMG_4744.jpg" alt="Mise en place du plan sur la plaque de Dépron" title="Mise en place du plan sur la plaque de Dépron"><br>Mise en place du plan sur la plaque de Dépron</p><p><img src="IMG_4774.jpg" alt="Découpe d&#39;une des pièces" title="Découpe d&#39;une des pièces"><br>Découpe d’une des pièces</p><h3 id="2eme-etape-Poncer-les-pieces"><a href="#2eme-etape-Poncer-les-pieces" class="headerlink" title="2ème étape - Poncer les pièces"></a>2ème étape - Poncer les pièces</h3><p>Une fois découper, vous devrez poncer toutes vos pièces. Poncez le bord d’attaque de vos ailes et l’empennage en arrondit.</p><p><img src="IMG_4753.jpg" alt="Pièces poncées" title="Pièces poncées"></p><h3 id="3eme-etape-Renforcer-la-gouverne-de-profondeur"><a href="#3eme-etape-Renforcer-la-gouverne-de-profondeur" class="headerlink" title="3ème étape - Renforcer la gouverne de profondeur"></a>3ème étape - Renforcer la gouverne de profondeur</h3><p>Découper un morceau de carbone de 8cm de long et placer au milieu de la partie mobile de la gouverne. Comme sur la photo ci-dessous.</p><p><img src="IMG_4754.jpg" alt="Rajout d&#39;un renfort" title="Rajout d&#39;un renfort"><br>Rajout d’un renfort</p><h3 id="4eme-etape-Assembler-le-fuselage"><a href="#4eme-etape-Assembler-le-fuselage" class="headerlink" title="4ème étape - Assembler le fuselage"></a>4ème étape - Assembler le fuselage</h3><h4 id="Partie-horizontale"><a href="#Partie-horizontale" class="headerlink" title="Partie horizontale"></a>Partie horizontale</h4><p>Maintenant, nous allons assembler la partie horizontale du fuselage qui est constitué de 3 pièces. La gouverne de profondeur (attention dans mon cas la partie fixe et mobile sont déjà assemblé), l’aile et le nez. Normalement si vous avez bien fait vos découpes les 3 parties s’assemblent comme un puzzle.</p><p><img src="IMG_4756.jpg" alt="Assemblage du fuselage" title="Assemblage du fuselage"><br>Assemblage du fuselage</p><h4 id="Partie-verticale"><a href="#Partie-verticale" class="headerlink" title="Partie verticale"></a>Partie verticale</h4><p>La partie verticale du fuselage est composée de 2 pièces, une pour la partie haute et l’autre pour la partie inférieure. Collez-les perpendiculairement à la partie horizontale. Des petits picots et des petits trous sont là pour vous aider à bien assembler les pièces. Elles doivent s’emboîter l’une dans l’autre. Vérifier avec une équerre que les 2 parties font un angle droit.</p><p>Pas de photo sur cette partie désolée :(</p><h3 id="5-eme-etape-Installer-les-gouvernes"><a href="#5-eme-etape-Installer-les-gouvernes" class="headerlink" title="5 ème étape - Installer les gouvernes"></a>5 ème étape - Installer les gouvernes</h3><p>Pour installer vos gouvernes, vous aurez besoin de 8 charnières (2 par éléments). Vous en trouverez par sachet de 10 ou plus dans votre magasin préféré.</p><p>Avant d’assembler les parties fixes et mobiles, il est utile de biseauter le bord qui accueillera les charnières afin de bénéficier d’un meilleur mouvement.</p><p><img src="preparation_gouverne.png" alt="Bisautage au cutter d&#39;une gouverne" title="Bisautage au cutter d&#39;une gouverne"></p><p>Ensuite, créer une petite entaille dans l’épaisseur du Dépron afin d’y rentrer vos charnières.</p><p><img src="coupure.jpg" alt="Entaille pour charnière" title="Entaille pour charnière"></p><p>Sachez qu’il n’est pas obligé de mettre une charnière mettre une bande de scotch sur la jonction entre la partie fixe et mobile est possible. Cela dépend des goûts de chacun. Cependant, peu importe la solution choisie, laisser un petit espace de 5mm environ pour que le mouvement ne soit pas gêné.</p><h3 id="6eme-partie-Ajout-des-renforts"><a href="#6eme-partie-Ajout-des-renforts" class="headerlink" title="6ème partie - Ajout des renforts"></a>6ème partie - Ajout des renforts</h3><p>Maintenant que le gros de notre avion est terminé, nous allons ajouter les renforts. Vous trouverez tous les détails dans le manuel que je vous mettrai en téléchargement à la fin de l’article. Pour les renforts, nous avons découpé 4 pièces en Dépron (2 longues et 2 petites). Nous installerons les 2 petites sous les ailes en équerre avec le fuselage. Petite astuce: poncer les bords avec un angle de 45° comme cela ça épousera parfaitement l’angle.</p><p><img src="renfort.png" alt="Ajout des renforts" title="Ajout des renforts"></p><p>Il vous faudra rajouter des morceaux de carbone pour la béquille et le train. Tous les détails dans la photo juste au-dessus ou dans le manuel.</p><h3 id="7eme-partie-L’electronique"><a href="#7eme-partie-L’electronique" class="headerlink" title="7ème partie - L’électronique"></a>7ème partie - L’électronique</h3><p>Maintenant que la structure est terminée, il nous reste qu’une chose à faire avant de voler, c’est de rajouter toute l’électronique embarquée et liée les tringles. Pour information, toute l’électronique se situera au niveau du nez sous et sur la partie horizontale. De cette façon, le poids de l’électronique équilibrera le centrage de l’avion.</p><p>Je vous mets des photos de toute l’électronique.</p><p><img src="servos.jpg" alt="Servos" title="Servos"></p><p><img src="IMG_4760.jpg" alt="Récepteur" title="Récepteur"></p><p><img src="IMG_4761.jpg" alt="Moteur + ESC" title="Moteur + ESC"></p><h3 id="Resultat-final"><a href="#Resultat-final" class="headerlink" title="Résultat final"></a>Résultat final</h3><p><img src="IMG_4764.jpg" alt="Mercury Indoor" title="Mercury Indoor"></p><p>Je vous mets ici les liens vers les différents fichiers PDF :</p><ul><li><a href="mercuryevolutionmanual.pdf">Manuel</a></li><li><a href="mercury_a4_tiled.pdf">Plan découpé au format A4</a></li><li><a href="mercuryy_model_full_sheet.pdf">Plan complet</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Bonjour à toutes et à tous. Aujourd’hui, je vous propose un petit tutoriel sur la construction d’un avion en Dépron pour 130 euros environs électronique comprise.&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Constructions" scheme="https://rc-blog.fr/categories/Constructions/"/>
+    
+      <category term="Avions" scheme="https://rc-blog.fr/categories/Constructions/Avions/"/>
+    
+      <category term="Indoor" scheme="https://rc-blog.fr/categories/Constructions/Avions/Indoor/"/>
+    
+    
+      <category term="Aéromodélisme" scheme="https://rc-blog.fr/tags/Aeromodelisme/"/>
+    
+      <category term="Indoor" scheme="https://rc-blog.fr/tags/Indoor/"/>
+    
+      <category term="Dépron" scheme="https://rc-blog.fr/tags/Depron/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Test du cessna 182 (F949) de chez WLtoys</title>
+    <link href="https://rc-blog.fr/03/03/2017/Test-du-cessna-182-F949-de-chez-WLtoys/"/>
+    <id>https://rc-blog.fr/03/03/2017/Test-du-cessna-182-F949-de-chez-WLtoys/</id>
+    <published>2017-03-03T17:00:00.000Z</published>
+    <updated>2017-03-10T18:39:06.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Bonjour à toutes et à tous.<br>Aujourd’hui, je vais vous présenter le Cessna 182 de chez WLtoys. Un avion peu cher (55 €) et idéal pour les débutants.</p><a id="more"></a><h2 id="Presentation"><a href="#Presentation" class="headerlink" title="Présentation"></a>Présentation</h2><p>Cet avion radiocommandé est composé d’un matériau appelé EPP (polystyrenne) très résistant aux chocs. Ce qui est idéal quand on débute. Il est livré avec une baterie 1s de 500mah ce qui lui procure une autonnomie de 20 à 30 min. Dans la boite, vous retrouverez aussi la télécommande et une hélice de rechange.</p><p>Cet avion est composé de 3 channels, gouverne de profondeur et direction et les gazs. Vous l’aurez compris, il y’a pas d’ailerons. Il est extrêmement maniable, je me suis régalé à le piloter et il sera parfait comme premier avion pour un débutant.</p><p>L’avion est assez petit et très léger donc il ne faut pas de vent pour le faire voler ou très très peu.<br>Sa petite taille peut permettre de le faire voler dans une salle indoor. Je n’ai pas encore eu l’occasion de le tester dans une session indoor.</p><h3 id="Contenue-de-la-boite"><a href="#Contenue-de-la-boite" class="headerlink" title="Contenue de la boite"></a>Contenue de la boite</h3><p>Lors de l’ouverture vous retrouverez :</p><ul><li>Le fuselage complet</li><li>L’aile (à assembler avec un tournevis)</li><li>La télécommande en 2,4Ghz</li><li>1 baterrie lithium 1s</li><li>1 chargeur USB</li><li>Hélice de rechange</li></ul><p>Le seul inconvénient est le chargeur qui est USB mais en soit ce n’est pas très génant. Je le branche sur mon ordinateur ou sur le bloc USB de mon téléphone.</p><p><img src="contenu.jpg" alt="Contenu de la boite du cessna 182 de chez WLtoys"></p><h2 id="Mesures"><a href="#Mesures" class="headerlink" title="Mesures"></a>Mesures</h2><ul><li>Envergure: 50 cm</li><li>Longueur: 37 cm</li><li>Poid: 58 gr</li></ul><h2 id="Complements"><a href="#Complements" class="headerlink" title="Compléments"></a>Compléments</h2><p>En plus de l’avion, j’ai pris un pack de 4 batteries lithium 1s 600mah m’offrant un peu plus d’autonomie. Avec ces 4 batteries je peux voler 1h30 à 2h. Elle sont livrées avec un chargeur USB semblable à celui de l’avion. Il est dotté de 4 sorties pour charger les 4 batteries en même temps. La charge dure un peu moins d’une heure.</p><p><img src="pack-batteries.jpg" alt="Pack batteries + chargeur"></p><h2 id="Photos-et-videos"><a href="#Photos-et-videos" class="headerlink" title="Photos et vidéos"></a>Photos et vidéos</h2><h3 id="Photos"><a href="#Photos" class="headerlink" title="Photos"></a>Photos</h3><p><img src="IMG_2673.jpg" alt=""><br><img src="IMG_2683.jpg" alt=""><br><img src="IMG_2684.jpg" alt=""><br><img src="IMG_2687.jpg" alt=""><br><img src="IMG_2688.jpg" alt=""></p><h3 id="Videos"><a href="#Videos" class="headerlink" title="Vidéos"></a>Vidéos</h3><p><video controls src="IMG_2690.mp4" style="height:500px;width:100%">Votre naigateur ne supporte pas la lecture vidéo.</video><br><em>Vidéo atterrissage</em></p><p><video controls src="IMG_2691.mp4" style="height:500px;width:100%">Votre naigateur ne supporte pas la lecture vidéo.</video><br><em>Vidéo vol</em></p><h2 id="Conclusion"><a href="#Conclusion" class="headerlink" title="Conclusion"></a>Conclusion</h2><p>Pour conclure, l’avion correspond aussi bien à des débutants que des personnes plus expérimentées du fait de son prix (55€) et de sa résistance.</p><p>Je vous mets les liens Amazon des articles :</p><ul><li><a href="http://amzn.to/2mDs3sS" title="Avion cessna 182 radiocommandé" target="_blank" rel="external">L’avion cessna 182</a></li><li><a href="http://amzn.to/2mnmeyH" title="Pack 4 baterries lithium + chargeur" target="_blank" rel="external">Les 4 batteries lithium</a></li></ul><p>Vous pouvez aussi faire comme moi et souscrire à l’offre Prenium d’Amazon à 49€, qui permet de ne payer aucuns frais de port et de recevoir des colis le lendemain. Idéal pour les impatients comme moi 🙂<br><a href="https://www.amazon.fr/essayerpremium?tag=rcblog-21" target="_blank" rel="external">Offre premium</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Bonjour à toutes et à tous.&lt;br&gt;Aujourd’hui, je vais vous présenter le Cessna 182 de chez WLtoys. Un avion peu cher (55 €) et idéal pour les débutants.&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Tests" scheme="https://rc-blog.fr/categories/Tests/"/>
+    
+      <category term="Avions" scheme="https://rc-blog.fr/categories/Tests/Avions/"/>
+    
+    
+      <category term="Aéromodélisme" scheme="https://rc-blog.fr/tags/Aeromodelisme/"/>
+    
+      <category term="Débutant" scheme="https://rc-blog.fr/tags/Debutant/"/>
+    
+      <category term="Cessna" scheme="https://rc-blog.fr/tags/Cessna/"/>
+    
+      <category term="WLtoys" scheme="https://rc-blog.fr/tags/WLtoys/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Où voler avec mon drone ou avion</title>
+    <link href="https://rc-blog.fr/24/02/2017/Ou-voler-avec-mon-drone-ou-avion/"/>
+    <id>https://rc-blog.fr/24/02/2017/Ou-voler-avec-mon-drone-ou-avion/</id>
+    <published>2017-02-24T17:00:00.000Z</published>
+    <updated>2017-03-04T12:25:17.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Vous venez d’acheter ou de construire votre nouveau modèle et il vous tarde de l’essayer. Mais une question vous trotte dans la tête <em>“Ou donc faire voler mon modèle ?”</em>. Dans cet article je vais vous donner quelques conseils pour répondre à cette question.</p><a id="more"></a><h2 id="Indoor-ou-Outdoor-quel-est-la-difference"><a href="#Indoor-ou-Outdoor-quel-est-la-difference" class="headerlink" title="Indoor ou Outdoor quel est la différence ?"></a>Indoor ou Outdoor quel est la différence ?</h2><h3 id="Indoor"><a href="#Indoor" class="headerlink" title="Indoor"></a>Indoor</h3><p>La pratique de l’indoor se fera pour de petits modèles électrique très léger. Ces modèles sont destinés exclusivement à l’indoor où (l’outdoor par <strong>vent nul !</strong>). Le gros avantage de l’indoor, c’est que l’on peut voler par tous les temps étant donné que nous sommes à l’intérieur. Mais il vous sera difficile de pratiquer cette pratique si vous ne faites pas partie d’un club disposant d’un accès à une salle.</p><p>De plus, cette pratique est moins accessible aux débutants, car elle demande une grande précision pour éviter les murs et le plafond.</p><p><img src="indoor.jpg" alt="Indoor vol accrobatique"></p><h3 id="Outdoor"><a href="#Outdoor" class="headerlink" title="Outdoor"></a>Outdoor</h3><p>L’outdoor est la pratique la plus rependue de l’aéromodélisme, elle consiste tout simplement à voler en extérieur. Les modèles utilisés sont de tout type, on peut trouver du thermique (moteur essence), électrique, turbine. Le gros inconvénient de l’outdoor c’est que l’on est très dépendant de la météo.</p><p><img src="outdoor.jpg" alt="Outdoor aéromodélisme"></p><h2 id="Les-reglementations"><a href="#Les-reglementations" class="headerlink" title="Les réglementations"></a>Les réglementations</h2><p>La pratique de l’aéromodélisme que ce soit drone, avion, hélicoptère, … est soumise à une réglementation très stricte. Vous ne pourrez pas voler où que vous le souhaitez. Le survol d’agglomérations, sites sensibles (centrale, site militaire, …) est interdit. Vous aurez aussi une hauteur de vol à ne pas dépasser suivant les zones.</p><p>Je vous mets ici un lien vers le site du gouvernement qui recense les zones où il est possible de voler sur une carte, ainsi que la hauteur maximum à ne pas dépasser.<br><a href="https://www.geoportail.gouv.fr/donnees/restrictions-pour-drones-de-loisir" title="Carte intéractive pour les restrictions de vol" target="_blank" rel="external">Lien vers la carte intéractive</a></p><p>Attention, cependant si le terrain repéré sur la carte est praticable. Ce n’est pas pour autant que vous aurez l’autorisation de voler. Il est recommandé de demander au propriétaire du terrain une autorisation. Pour les parcs, je vous conseille de voler dans des endroits dégagés et avec personne autour de vous, un accident est vite arrivé. Vérifier sur la carte que le parc n’est pas interdit de vol. Il est conseillé d’être au moins inscrit à la FFAM (Fédération française d’aéromodélisme), car elle vous assurera en cas d’accident (Allez voir mon article sur <a href="/02/02/2017/Faut-il-s-inscrire-a-la-FFAM" title="Faut il s&#39;inscrire à la FFAM">Faut il s’inscrire à la FFAM</a>.</p><p>Il ne serait que trop conseillé aux personnes débutantes de s’inscrire dans un club. Les clubs disposent de leur propre terrain souvent accessible à tout moment. Mais ils fournissent aussi des cours de pilotage, des bonnes pratiques pour la sécurité, … Je vous mets ici un lien sur mon article <a href="#" title="Les avantages d&#39;être inscrit dans un club de modélisme">Les avantages d’être inscrit dans un club de modélisme</a>.</p><h3 id="Checklist-pour-voler"><a href="#Checklist-pour-voler" class="headerlink" title="Checklist pour voler"></a>Checklist pour voler</h3><ul><li>Terrain aux normes<ul><li>Hors agglomération et terrain sensible</li><li>Aucune ligne électrique à proximité</li><li>Terrain dégagé</li></ul></li><li>Personnes autour (Survol de personne strictement interdite)</li><li>Météo<ul><li>Peu ou pas de vent (Aucun vent préviligié pour les débutants)</li><li>Soleil ou nuageux</li></ul></li><li>Nettoyer après son passage</li></ul><h2 id="Conclusion"><a href="#Conclusion" class="headerlink" title="Conclusion"></a>Conclusion</h2><p>Pour conclure, il peut être intéressant de s’inscrire dans un club afin de ne pas avoir de contrainte avec le terrain et d’apprendre les bases du modélisme (sécurité, pilotage, …)Pour les plus avertis, il est possible de trouver un terrain dégagé sans que cela ne dérange.</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Vous venez d’acheter ou de construire votre nouveau modèle et il vous tarde de l’essayer. Mais une question vous trotte dans la tête &lt;em&gt;“Ou donc faire voler mon modèle ?”&lt;/em&gt;. Dans cet article je vais vous donner quelques conseils pour répondre à cette question.&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Informations" scheme="https://rc-blog.fr/categories/Informations/"/>
+    
+      <category term="Avions" scheme="https://rc-blog.fr/categories/Informations/Avions/"/>
+    
+      <category term="Hélicoptères" scheme="https://rc-blog.fr/categories/Informations/Avions/Helicopteres/"/>
+    
+      <category term="Drones" scheme="https://rc-blog.fr/categories/Informations/Avions/Helicopteres/Drones/"/>
+    
+    
+      <category term="Aéromodélisme" scheme="https://rc-blog.fr/tags/Aeromodelisme/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Faut il s&#39;inscrire à la FFAM ?</title>
+    <link href="https://rc-blog.fr/02/02/2017/Faut-il-s-inscrire-a-la-FFAM/"/>
+    <id>https://rc-blog.fr/02/02/2017/Faut-il-s-inscrire-a-la-FFAM/</id>
+    <published>2017-02-02T17:00:00.000Z</published>
+    <updated>2017-02-23T18:58:53.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>On sait tous déjà demander est-ce qu’il était utile de s’inscrire à la FFAM. Je vais tacher de vous y répondre dans cet article.</p><a id="more"></a><h2 id="Deja-qu’est-ce-que-la-FFAM"><a href="#Deja-qu’est-ce-que-la-FFAM" class="headerlink" title="Déjà qu’est-ce que la FFAM ?"></a>Déjà qu’est-ce que la FFAM ?</h2><p>La FFAM (Fédération Française d’Aéro Modélisme) est une association permettant à tout les aéromodélistes de France de se regrouper au sein d’une seule entitée. Elle est à l’origine de l’expansion de la pratique du modélisme :</p><ul><li>championnats</li><li>clubs</li><li>salons</li></ul><p>Depuis sa création en 1966, elle a su développée la pratique de l’aéromodélisme et mettre en place des réglementations afin de sécuriser la pratique (oui ça peut être dangereux. Vous pouvez voir mon article sur <a href="/01/02/2017/Les-dangers-de-l-aeromodelisme" title="Les dangers de l&#39;aéromodélisme">les dangers de l’aéromodélisme</a>).</p><p>Si vous voulez en savoir plus, vous pouvez visiter le site de la FFAM <a href="http://www.ffam.asso.fr/" title="FFAM" target="_blank" rel="external">ici</a>.</p><h2 id="Quels-sont-les-avantages-d’etre-inscrit-a-la-FFAM"><a href="#Quels-sont-les-avantages-d’etre-inscrit-a-la-FFAM" class="headerlink" title="Quels sont les avantages d’être inscrit à la FFAM ?"></a>Quels sont les avantages d’être inscrit à la FFAM ?</h2><p>Être inscrit à la FFAM apporte plusieurs avantages mais qui ne sont pas forcément utiles pour tous le monde. Par exemple en étant inscrit, on peut participer aux championnats mais l’aéromodéliste du dimanche qui souhaite juste faire voler son modèle ne sera pas intéressé par ceci. Mais je vous rassure ce n’est pas le seul avantage. Cependant, ceux que je vais vous présenter sont plus intéressants :</p><ul><li>une communauté (conseils d’autre membres, partage, etc …)</li><li>un accès au terrain des clubs affiliés acceptant les inscrits FFAM (renseignez vous auprès d’un membre du club ou sur le site internet du club en question)</li><li>une réduction sur l’abonnement à la revue <em>aéromodèle</em> 10€/an</li><li>une assurance couvrant le licencié dans la pratique de l’aéromodélisme</li></ul><p>C’est surtout l’assurance qui est importante puisqu’un modèle, que ce soit un avion ou autre, peut faire de gros dégats. Il est donc important d’être assurer.</p><h2 id="Comment-s’inscrire"><a href="#Comment-s’inscrire" class="headerlink" title="Comment s’inscrire ?"></a>Comment s’inscrire ?</h2><p>Il n’y a pas 36 solutions pour s’inscrire à la FFAM, soit vous passez par un club de modélisme (le plus répandu) soit vous souscrivez directement à la FFAM.<br>Attention, la FFAM et le club de modélisme sont deux choses différentes. Je ferrais un article afin de mieux comprendre les différences entre les deux.</p><p>Peu importe la solution que vous choisissez, je vous invite à vous rendre sur le site de la FFAM pour trouver un club près de chez vous ou directement regarder la section inscription.</p><h2 id="Pour-conclure-faut-il-s’inscrire"><a href="#Pour-conclure-faut-il-s’inscrire" class="headerlink" title="Pour conclure faut-il s’inscrire ?"></a>Pour conclure faut-il s’inscrire ?</h2><p>Il n’y a pas de réponse toute faite. Cela va vraiment déprendre de vos attentes et de vos besoins. Il n’est pas obligatoire d’être dans un club ou inscrit à la FFAM pour faire voler son avion, drone, hélicoptère une fois de temps en temps mais il est recommandé d’en faire parti. Déjà, les clubs disposent de terrain agrémenté car oui, on ne peux pas voler son modèle n’importe où (<a href="&quot;Où voler avec mon drone ou avion&quot;">Où voler avec mon drone ou avion</a>). De deux, piloter un modèle, même débutant, n’est pas forcément facile. L’avantage d’être dans un club c’est d’avoir des cours de pilotage. Néamoins si on à déjà une bonne base de pilotage, qu’on dispose d’un endroit dégagé qui n’est pas soumis au limite de l’avion et qu’on prend quelques règles de sécurité, il est possible de voler.</p><p>Personnellement, je pense qu’il vaut mieux être inscrit à la FFAM et à un club. La cotisation à l’année n’est pas très chère pour les deux. De plus, vous n’aurez plus la contrainte de chercher un terrain, vous échangerez et apprendrez beaucoup de choses auprès des membres, vous participerez aux activités, etc. Si vous voulez en savoir plus, allez voir mon article sur <a href="&quot;Les avantages d&#39;un club de modélisme&quot;">Les avantages d’un club</a>.</p><p>J’espère que mon article vous aura plu, si vous avez des retours ou des corrections à me communiquer n’hésitez pas à me les dire dans les commentaires. Sur ce, bon vol ! :)</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;On sait tous déjà demander est-ce qu’il était utile de s’inscrire à la FFAM. Je vais tacher de vous y répondre dans cet article.&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Informations" scheme="https://rc-blog.fr/categories/Informations/"/>
+    
+    
+      <category term="Aéromodélisme" scheme="https://rc-blog.fr/tags/Aeromodelisme/"/>
+    
+      <category term="FFAM" scheme="https://rc-blog.fr/tags/FFAM/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Les dangers de l&#39;aéromodélisme</title>
+    <link href="https://rc-blog.fr/01/02/2017/Les-dangers-de-l-aeromodelisme/"/>
+    <id>https://rc-blog.fr/01/02/2017/Les-dangers-de-l-aeromodelisme/</id>
+    <published>2017-02-01T17:00:00.000Z</published>
+    <updated>2017-02-23T18:58:38.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Et oui la pratique de l’aéromodélisme peut être dangereuse, nous allons voir en détail les dangers liés à cette pratique.</p><a id="more"></a><p>Il faut bien se rendre compte qu’un modèle n’est pas un joué. Que ça soit un <strong>drone</strong>, un avion, un hélicoptère ou autre chose. Même les drones de loisir que l’on retrouve dans les magasins de jouets peuvent être dangereux donc ne faites pas n’importe quoi.</p><h2 id="Les-dangers-possibles"><a href="#Les-dangers-possibles" class="headerlink" title="Les dangers possibles"></a>Les dangers possibles</h2><h3 id="Se-faire-entailler-par-une-helice"><a href="#Se-faire-entailler-par-une-helice" class="headerlink" title="Se faire entailler par une hélice"></a>Se faire entailler par une hélice</h3><p>Une hélice, ça tourne très vite. Ça peut vous entailler voir vous emputer pour les plus gros modèles donc prudence. Ne faites jammais voler votre modèle proche de vous ou d’autres personnes.</p><p><img src="vol.jpg" alt="Avion qui vol au-dessus des personnes"></p><h3 id="Crash"><a href="#Crash" class="headerlink" title="Crash"></a>Crash</h3><p>Faites très attention à l’endroit ou vous volez : préconnisez les terrains adaptés ou choisissez un endroit à l’abri. Je vous invite à lire mon article sur <a href="&quot;Où voler avec mon drone ou avion&quot;">Où voler avec mon drone ou avion</a>. Lors d’une perte de contrôle, votre modèle peut se crasher sur une voiture ou une maison et oui, ça peut faire de gros dégats selon la taille de l’engin.</p><p>Avant chaque décollage, faites une checklist de votre modèle :</p><ul><li>Moteur</li><li>Gouverne</li><li>Fixation</li><li>Utilisation des fréquences par les autres personnes</li><li>Etc</li></ul><p><img src="crash.jpg" alt="Crash d&#39;un avion RC" title="Crash d&#39;un avion RC"></p><h3 id="Batteries"><a href="#Batteries" class="headerlink" title="Batteries"></a>Batteries</h3><p>De nos jours les modèles électriques utilisent de plus en plus souvent des batteries au lithium. Celles-ci peuvent être très dangereuses et brulées. Il suffit d’une mauvaise charge, un choc suite à un crash. Allez lire mon article sur les batteries au lithium, il vous apprendra les dangers liées à celles-ci et comment les protéger :) <a href="/31/01/2017/Les-dangers-des-batteries-lithium/" title="Les dangers des batteries au lithium">ici</a></p><p><img src="lipo-fire.jpg" alt="Batterie lithium qui prend feu" title="Batterie lithium qui prend feu"></p><h3 id="Environnement"><a href="#Environnement" class="headerlink" title="Environnement"></a>Environnement</h3><p>Et oui, vous devez savoir que l’espace aérien est très réglementé. Selon la zone où vous voulez voler, vous aurez une hauteur maximum à ne pas dépasser et des zones sensibles à ne pas survolez : les zones proches des aéroports, aérodromes et centrales nucléaires sont strictement interdites ainsi qu’au-dessus d’une agglomération.<br>Je vous conseille de vous rendre sur ce site mis en place par le gouvernement. C’est une carte intéractive qui décrit les zonnes de vols avec la hauteur maximum <a href="https://www.geoportail.gouv.fr/donnees/restrictions-pour-drones-de-loisir" title="Carte intéractive pour les restrictions de vol" target="_blank" rel="external">ici</a>.</p><h3 id="Brulures"><a href="#Brulures" class="headerlink" title="Brulures"></a>Brulures</h3><p>Que vous utilisiez un modèle thermique ou électrique, les risques de brûlure avec un moteur ou une batterie chaud(e)s sont importants.</p><h3 id="Pour-finir-voici-les-8-commandements-d’un-bon-pilote"><a href="#Pour-finir-voici-les-8-commandements-d’un-bon-pilote" class="headerlink" title="Pour finir, voici les 8 commandements d’un bon pilote"></a>Pour finir, voici les 8 commandements d’un bon pilote</h3><ul><li>Je ne volerais pas au-dessus de moi ou d’autres personnes</li><li>Au-dessus d’une zonne sensible, je ne volerais pas</li><li>La hauteur de vol, je respecterais</li><li>Mon modèle en vue, toujours j’aurais</li><li>Autrui, je respecterais</li><li>Du bon fonctionnement de mon matériel, je m’assurerais</li><li>Les fréquences, je respecterais</li><li>Maitre de mon modèle, je serais</li></ul><p>Je vous remercie d’avoir lu mon article et comme toujours n’hésitez pas à laisser un commentaire et bon vol à vous ! :)</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Et oui la pratique de l’aéromodélisme peut être dangereuse, nous allons voir en détail les dangers liés à cette pratique.&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Informations" scheme="https://rc-blog.fr/categories/Informations/"/>
+    
+    
+      <category term="Aéromodélisme" scheme="https://rc-blog.fr/tags/Aeromodelisme/"/>
+    
+      <category term="Dangers" scheme="https://rc-blog.fr/tags/Dangers/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Les dangers des batteries lithium</title>
+    <link href="https://rc-blog.fr/31/01/2017/Les-dangers-des-batteries-lithium/"/>
+    <id>https://rc-blog.fr/31/01/2017/Les-dangers-des-batteries-lithium/</id>
+    <published>2017-01-31T17:00:00.000Z</published>
+    <updated>2017-02-23T18:58:14.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Dans cet article nous allons voir les dangers liés aux batteries lithium et comment s’en protéger.</p><a id="more"></a><h2 id="Les-batteries-au-lithium-lipo"><a href="#Les-batteries-au-lithium-lipo" class="headerlink" title="Les batteries au lithium (lipo)"></a>Les batteries au lithium (lipo)</h2><p>Ce type de batterie à de nombreux avantage que ce soit au niveau de sa capacité ou au niveau de son poids. On les retrouve partout : téléphones, ordinateurs, drones ainsi que nos chers modèles. Mais elles peuvent être très dangereuses car les matériaux qui la compose sont assez instables, il est donc important de bien les chouchoutées pour leur garantir une bonne durée de vie.</p><h3 id="Les-dangers-qu’elles-representent"><a href="#Les-dangers-qu’elles-representent" class="headerlink" title="Les dangers qu’elles représentent"></a>Les dangers qu’elles représentent</h3><p>Les batteries lithium peuvent :</p><ul><li>Explosées</li><li>Prendre feu</li></ul><p>Il est donc important de bien entreposé ses batteries afin de garantir un minimun de sécurité. Imaginez si votre battarie prend feu dans votre garage pendant la nuit, si elle n’est pas protégée, je vous laisse imaginez les dégâts qu’elle peut causer.</p><h3 id="Comment-eviter-les-dangers"><a href="#Comment-eviter-les-dangers" class="headerlink" title="Comment éviter les dangers ?"></a>Comment éviter les dangers ?</h3><p>Le plus important est la charge de ce type de batterie : n’utilisez pas n’importe quel chargeur. Une batterie lithium se charge d’une façon bien précise. Je ne vais pas rentrer dans les détails puisque de nombreux sites expliquent la charge de ces batteries :). Pour ma part, j’utilise le chargeur <a href="https://hobbyking.com/fr_fr/imax-b6ac-v2-professional-balance-charger-discharger.html" title="Chargeur lipo imax B6" target="_blank" rel="external">imax B6</a>. Il permet de recevoir une alimentation 230v/12v, parfait pour la maison et le terrain. Il permet aussi de charger des batteries jusqu’à 6S.</p><p><img src="chargeur-lipo.jpg" alt="Chargeur imax B6" title="Chargeur imax B6"></p><p>Maintenant que vous savez comment bien charger vos batteries, il vient la question <em>comment stocker ses batteries</em> ? Elles doivent être stockées dans un endroit sec avec une température ambiante se situant aux alentours de 20°C. Il peut être très intéressant de se procurer des sacs anti-feu pour stocker sa batterie mais surtout lors de la charge, comme ça si votre batterie prend feu vous serez protégé.</p><p>Lorsque vous avez beaucoup de batteries, vous pouvez les stockées dans des caisses en métal. De nombreux modélistes utilisent cette technique et je vous la recommande.<br><img src="caisse-stockage.jpg" alt="Caisse de stockage" title="Caisse de stockage pour batterie lithium"></p><p>Dernier élément est des plus important, pour assurer une bonne durée de vie à votre batterie et une bonne sécurité, ne laisser pas vos batteries charger à 100%. Si vous n’utilisez pas votre batterie après votre session, pensez à utiliser votre chargeur pour décharger la batterie ce qui évitera qu’elle ne soit trop instable.</p><p>Dernière info, si votre batterie est <strong>gonflée</strong>, débrancher la tout de suite et jeter là car elle est morte et pourrait explosée ou brulée.</p><p>Sur ce, j’espère vous avoir apporté des informations et n’oubliez pas, laissez moi un commentaire si vous avez des retours. Je vous souhaite une bonne session :)</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Dans cet article nous allons voir les dangers liés aux batteries lithium et comment s’en protéger.&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Informations" scheme="https://rc-blog.fr/categories/Informations/"/>
+    
+      <category term="Voitures" scheme="https://rc-blog.fr/categories/Informations/Voitures/"/>
+    
+      <category term="Bateaux" scheme="https://rc-blog.fr/categories/Informations/Voitures/Bateaux/"/>
+    
+      <category term="Avions" scheme="https://rc-blog.fr/categories/Informations/Voitures/Bateaux/Avions/"/>
+    
+      <category term="Hélicoptères" scheme="https://rc-blog.fr/categories/Informations/Voitures/Bateaux/Avions/Helicopteres/"/>
+    
+      <category term="Drones" scheme="https://rc-blog.fr/categories/Informations/Voitures/Bateaux/Avions/Helicopteres/Drones/"/>
+    
+    
+      <category term="Aéromodélisme" scheme="https://rc-blog.fr/tags/Aeromodelisme/"/>
+    
+      <category term="Dangers" scheme="https://rc-blog.fr/tags/Dangers/"/>
+    
+      <category term="Batterie" scheme="https://rc-blog.fr/tags/Batterie/"/>
+    
+  </entry>
+  
+</feed>
